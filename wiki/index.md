@@ -1,5 +1,7 @@
 # Knowledge Base Index
 
 | File | Summary |
-|------|---------|
-| wiki/personal/Duy_Nguyen_Profile.md | Comprehensive profile and notes. |
+|---|---|
+| wiki/SCHEMA.md | Librarian operating manual — conventions and workflows. |
+| wiki/log.md | Chronological operation log. |
+| wiki/overview.md | Evolving synthesis of all wiki themes. |
