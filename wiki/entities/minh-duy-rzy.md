@@ -4,7 +4,7 @@ enity_type: person
 ---
 
 ## Overview
-Minh Duy, also known as Rzy, is a highly skilled AI Engineer and Research Engineer based in Ho Chi Minh City, Vietnam. He specializes in applying Machine Learning and Deep Learning to quantify threats for Unmanned Aerial Vehicles (UAVs) within the SORA (Specific Operations Risk Assessment) framework. He holds a Master's degree from Soonchunhyang University and has a background in software engineering and practical automation.
+Minh Duy, also known as Rzy, is an AI Engineer and Research Engineer based in Ho Chi Minh City, Vietnam. He specializes in applying Machine Learning and Deep Learning to quantify threats for Unmanned Aerial Vehicles (UAVs) within the SORA framework. He is also an entrepreneur, having founded Lowkie, a fitness-focused snack brand. He maintains a strong interest in the Vietnamese financial markets.
 
 ## Key Facts
 - **Name/Aliases:** Minh Duy (Rzy).
@@ -18,9 +18,7 @@ Minh Duy, also known as Rzy, is a highly skilled AI Engineer and Research Engine
 - **Interests:** Fitness, Vietnamese stock market (energy, utility, steel sectors).
 - **Timeline:** Relocated to HCMC in April 2026.
 - **Milestones:** Completed Master's degree (Feb 2026); Relocated to HCMC (April 2026).
-- **Domain Preferences:** Highly focused on ML applications; explicitly not focused on Biology.
-- **Financial Interests:** Monitors Vietnamese stock market (GAS, HPG, BWE, TDM).
-- **Career Activity:** Actively interviewing for AI Scientist/Engineer roles.
+- **Domain Preferences:** Highly focused on ML applications; not focused on Biology.
 
 ## Sources
 - [Minh Duy Profile Summary](wiki/sources/new-minh-duy-profile.md)

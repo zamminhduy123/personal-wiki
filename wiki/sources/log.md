@@ -1,2 +1,2 @@
 ## [2026-04-15] ingest | Minh Duy Profile Summary
-Updated Minh Duy's profile with details on his current ventures, AI specialization (UAVs/SORA), and personal interests, expanding his professional scope beyond his academic background.
+Updated Minh Duy's profile (Rzy) with detailed personal, professional, and entrepreneurial information, including his focus on UAV threat quantification and founding Lowkie.
