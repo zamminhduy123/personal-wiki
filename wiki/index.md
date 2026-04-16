@@ -1,3 +1,4 @@
+```markdown
 | File | Summary |
 |---|---| 
 | wiki/SCHEMA.md | Librarian operating manual — conventions and workflows. |
@@ -29,3 +30,4 @@
 | wiki/concepts/ai-engineer.md | Professional role focused on designing and implementing AI solutions. |
 | wiki/concepts/ai-scientist.md | Professional role focused on theoretical AI research and development. |
 | wiki/concepts/entrepreneurship.md | The process of creating and managing a new business venture. |
+```

@@ -1,2 +1,2 @@
 ## [2026-04-15] ingest | Minh Duy Profile Summary
-Updated Minh Duy's profile (Rzy) with detailed personal, professional, and entrepreneurial information, including his focus on UAV threat quantification and founding Lowkie.
+Ingested Minh Duy's updated profile, detailing his specialization in UAV threat quantification, his entrepreneurial venture Lowkie, and his interests in the Vietnamese stock market. Updated entities/minh-duy-rzy.md, wiki/overview.md, and several concept pages.
