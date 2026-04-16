@@ -1,2 +1,2 @@
-## [2026-05-20] ingest | Minh Duy's Professional and Personal Profile (2026)
-Ingested Minh Duy's detailed 2026 profile, updating his personal details, entrepreneurial ventures (Lowkie), and professional focus on UAV threat quantification. Updated entities/minh-duy-rzy.md, concepts/fitness.md, concepts/vietnamese-stock-market.md, and wiki/overview.md.
+## [2026-04-14] ingest | Minh Duy's current professional and personal profile, detailing his AI specialization and ventures.
+Ingested Minh Duy's updated profile, solidifying his roles as an AI Engineer and entrepreneur, and detailing his focus on UAV threat quantification using the SORA framework.
