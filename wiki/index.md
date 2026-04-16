@@ -9,7 +9,7 @@
 | wiki/sources/cv-duynguyen.md | CV of Nguyen Thanh Minh Duy, detailing deep learning research and software engineering experience. |
 | wiki/sources/new-minh-duy-profile.md | Minh Duy's current professional and personal profile, detailing his AI specialization and ventures. |
 | wiki/entities/nguyen-thanh-minh-duy.md | Profile of Nguyen Thanh Minh Duy, a specialist in deep learning and software engineering. |
-| wiki/entities/minh-duy-rzy.md | Profile of Minh Duy (Rzy), an AI Engineer specializing in UAV threat quantification. |
+| wiki/entities/minh-duy-rzy.md | Profile of Minh Duy (Rzy), an AI Engineer specializing in UAV threat quantification and entrepreneurship. |
 | wiki/entities/zalo.md | Professional experience at Zalo, focusing on performance engineering and product development. |
 | wiki/entities/vng-corporation.md | The corporate entity behind Zalo. |
 | wiki/entities/soonchunhyang-university.md | Academic institution where Duy pursued his Master's degree and research. |
@@ -30,4 +30,4 @@
 | wiki/concepts/sora-framework.md | Structured methodology for assessing operational risks, particularly involving UAVs. |
 | wiki/concepts/ai-engineer.md | Professional role focused on designing and implementing AI solutions. |
 | wiki/concepts/ai-scientist.md | Professional role focused on theoretical AI research and development. |
-| wiki/concepts/entrepreneurship.md | The process of creating and managing a new business venture.
+| wiki/concepts/entrepreneurship.md | The process of creating and managing a new business venture. |

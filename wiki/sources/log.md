@@ -1,2 +1,2 @@
-## [2026-04-15] ingest | Minh Duy Profile Summary
-Ingested Minh Duy's current professional and personal profile. Updated entities/minh-duy-rzy.md, sources/new-minh-duy-profile.md, and overview.md.
+## [2026-05-20] ingest | Minh Duy's Profile Update
+Updated Minh Duy's entity page and the overall wiki overview with detailed information regarding his entrepreneurial ventures, timeline, and financial interests.
