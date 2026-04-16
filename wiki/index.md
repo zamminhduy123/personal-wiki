@@ -7,7 +7,9 @@
 | wiki/overview.md | Evolving synthesis of all wiki themes. |
 | wiki/bio.md | Profile of Nguyen Thanh Minh Duy. |
 | wiki/sources/cv-duynguyen.md | CV of Nguyen Thanh Minh Duy, detailing deep learning research and software engineering experience. |
+| wiki/sources/new-minh-duy-profile.md | Minh Duy's current professional and personal profile, detailing his AI specialization and ventures. |
 | wiki/entities/nguyen-thanh-minh-duy.md | Profile of Nguyen Thanh Minh Duy, a specialist in deep learning and software engineering. |
+| wiki/entities/minh-duy-rzy.md | Profile of Minh Duy (Rzy), an AI Engineer specializing in UAV threat quantification. |
 | wiki/entities/zalo.md | Professional experience at Zalo, focusing on performance engineering and product development. |
 | wiki/entities/vng-corporation.md | The corporate entity behind Zalo. |
 | wiki/entities/soonchunhyang-university.md | Academic institution where Duy pursued his Master's degree and research. |
@@ -23,3 +25,6 @@
 | wiki/concepts/gnn.md | Network specialized for graph-structured data. |
 | wiki/concepts/pytorch.md | Open-source framework for deep learning development. |
 | wiki/concepts/fastapi.md | Modern Python framework for building high-performance APIs. |
+| wiki/concepts/machine-learning.md | General field of using data to train algorithms for prediction. |
+| wiki/concepts/uavs.md | Aircraft operating without a human pilot, central to Minh Duy's current research. |
+| wiki/concepts/sora-framework.md | Structured methodology for assessing operational risks, particularly involving UAVs. |

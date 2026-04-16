@@ -1,0 +1,2 @@
+## [2026-04-15] ingest | Minh Duy Profile Summary
+Ingested Minh Duy's current professional and personal profile. Created new entity (minh-duy-rzy), source (new-minh-duy-profile), and concepts (uavs, sora-framework, machine-learning, ai-engineer, ai-scientist). Updated index and overview.
