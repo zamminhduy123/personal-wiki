@@ -1,2 +1,2 @@
-## [2026-05-20] ingest | Minh Duy's Profile Update
-Updated Minh Duy's entity page and the overall wiki overview with detailed information regarding his entrepreneurial ventures, timeline, and financial interests.
+## [2026-04-15] ingest | Minh Duy Profile Summary
+Ingested Minh Duy's detailed profile, updating his entity page, source document, and expanding concepts related to UAVs, SORA, and his entrepreneurial ventures.
