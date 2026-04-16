@@ -30,4 +30,4 @@
 | wiki/concepts/sora-framework.md | Structured methodology for assessing operational risks, particularly involving UAVs. |
 | wiki/concepts/ai-engineer.md | Professional role focused on designing and implementing AI solutions. |
 | wiki/concepts/ai-scientist.md | Professional role focused on theoretical AI research and development. |
-| wiki/concepts/entrepreneurship.md | The process of creating and managing a new business venture. |
+| wiki/concepts/entrepreneurship.md | The process of creating and managing a new business venture.

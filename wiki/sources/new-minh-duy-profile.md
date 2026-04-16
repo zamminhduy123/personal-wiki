@@ -12,7 +12,6 @@ Minh Duy, also known as Rzy, is an AI Engineer and Research Engineer based in Ho
 - **Name/Aliases:** Minh Duy (Rzy).
 - **Current Location:** Ho Chi Minh City, Vietnam.
 - **Previous Location:** Cheonan, South Korea.
-
 - **Education:** Master’s degree (graduated Feb 2026) from Soonchunhyang University.
 - **Primary Roles:** AI Engineer / Research Engineer.
 - **Specialization:** Using ML/DL to quantify UAV threats within the SORA framework.
@@ -20,6 +19,7 @@ Minh Duy, also known as Rzy, is an AI Engineer and Research Engineer based in Ho
 - **Venture:** Founder of Lowkie (protein-enriched cookies).
 - **Interests:** Fitness, Vietnamese stock market (energy, utility, steel sectors).
 - **Timeline:** Relocated to HCMC in April 2026.
+- **Milestones:** Completed Master's degree (Feb 2026); Relocated to HCMC (April 2026).
 
 ## Entities Mentioned
 - [Minh Duy (Rzy)](wiki/entities/minh-duy-rzy.md)
