@@ -1,2 +1,2 @@
-## [2026-04-15] ingest | Minh Duy Profile Summary
-Ingested Minh Duy's updated profile, detailing his specialization in UAV threat quantification, his entrepreneurial venture Lowkie, and his interests in the Vietnamese stock market. Updated entities/minh-duy-rzy.md, wiki/overview.md, and several concept pages.
+## [2026-04-15] ingest | Minh Duy's Professional and Personal Profile (2026)
+Ingested Minh Duy's updated profile, detailing his AI specialization in UAV threat quantification, his entrepreneurial venture Lowkie, and his relocation to Ho Chi Minh City.

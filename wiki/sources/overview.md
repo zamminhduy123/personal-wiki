@@ -1,3 +1,7 @@
-## Overview
+# Wiki Overview
 
-This wiki tracks the professional and academic journey of Minh Duy (Rzy), a specialist in applied AI and Machine Learning. His work centers on quantifying risks for Unmanned Aerial Vehicles (UAVs) using structured methodologies like SORA. Beyond his technical career, he is an active entrepreneur, founding Lowkie, and maintains a keen interest in the Vietnamese financial markets. His profile shows a strong trajectory from software engineering in Korea to AI research and business development in Vietnam.
+This document is an evolving synthesis of everything in this wiki.
+
+The core narrative revolves around **Nguyen Thanh Minh Duy**, a highly skilled AI Engineer and researcher. His work centers on applying advanced Machine Learning (ML) and Deep Learning (DL) techniques to solve critical, real-world problems, particularly the quantification of threats posed by **Unmanned Aerial Vehicles (UAVs)** within the **SORA framework**. 
+
+Beyond his technical career, Minh Duy is actively engaged in **entrepreneurship**, founding **Lowkie**, a fitness-focused snack brand. His personal life is marked by recent academic milestones (Master's degree completion) and a relocation to **Ho Chi Minh City**, where he also maintains an interest in the **Vietnamese stock market**. The wiki tracks his professional evolution, technical expertise, and personal ventures.
