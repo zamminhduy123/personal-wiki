@@ -20,6 +20,7 @@ Minh Duy, also known as Rzy, is an AI Engineer and Research Engineer based in Ho
 - **Interests:** Fitness, Vietnamese stock market (energy, utility, steel sectors).
 - **Timeline:** Relocated to HCMC in April 2026.
 - **Milestones:** Completed Master's degree (Feb 2026); Relocated to HCMC (April 2026).
+- **Domain Preferences:** Highly focused on ML applications; not focused on Biology.
 
 ## Entities Mentioned
 - [Minh Duy (Rzy)](wiki/entities/minh-duy-rzy.md)
