@@ -1,2 +1,2 @@
 ## [2026-04-15] ingest | Minh Duy Profile Summary
-Ingested Minh Duy's detailed profile, updating his entity page, source document, and expanding concepts related to UAVs, SORA, and his entrepreneurial ventures.
+Updated Minh Duy's profile with details on his current ventures, AI specialization (UAVs/SORA), and personal interests, expanding his professional scope beyond his academic background.
