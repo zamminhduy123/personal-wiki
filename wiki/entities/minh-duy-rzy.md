@@ -9,6 +9,7 @@ Minh Duy, also known by the alias Rzy, is an AI Engineer and Research Engineer. 
 ## Key Facts
 - **Aliases:** Rzy.
 - **Current Location:** Ho Chi Minh City, Vietnam.
+- **Previous Location:** Cheonan, South Korea.
 - **Education:** Master's degree (graduated February 2026) from Soonchunhyang University.
 - **Professional Focus:** AI/ML research, specifically threat quantification for UAVs using the SORA framework.
 - **Venture:** Founder of Lowkie (fitness-focused snack). 
@@ -16,10 +17,11 @@ Minh Duy, also known by the alias Rzy, is an AI Engineer and Research Engineer. 
 - **Timeline:** Relocated to HCMC in April 2026.
 
 ## Sources
-- [Minh Duy's current professional and personal profile, detailing his AI specialization and ventures.](wiki/sources/minh-duy-profile-2026.md)
-- [Profile of Nguyen Thanh Minh Duy.](wiki/sources/bio.md)
-- [Minh Duy's current professional and personal profile, detailing his AI specialization and ventures.](wiki/sources/new-minh-duy-profile-2026.md)
 - [CV of Nguyen Thanh Minh Duy, detailing deep learning research and software engineering experience.](wiki/sources/cv-duynguyen.md)
+- [Profile of Nguyen Thanh Minh Duy.](wiki/sources/bio.md)
+- [Minh Duy's current professional and personal profile, detailing his AI specialization and ventures.](wiki/sources/minh-duy-profile-2026.md)
+- [Minh Duy's current professional and personal profile, detailing his AI specialization and ventures.](wiki/sources/new-minh-duy-profile-2026.md)
 - [Profile of Minh Duy (Rzy), an AI Engineer specializing in UAV threat quantification and entrepreneurship.](wiki/sources/cv-duynguyen.md)
 - [Profile of Minh Duy (Rzy), an AI Engineer specializing in UAV threat quantification and entrepreneurship.](wiki/sources/new-minh-duy-profile-2026.md)
 - [Profile of Minh Duy (Rzy), an AI Engineer specializing in UAV threat quantification and entrepreneurship.](wiki/sources/bio.md)
+- [Minh Duy's current professional and personal profile, detailing his AI specialization and ventures.](wiki/sources/minh-duy-profile-2026.md)

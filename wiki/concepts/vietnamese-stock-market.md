@@ -1,4 +1,4 @@
----
+--- 
 type: concept
 ---
 
@@ -9,4 +9,4 @@ The financial market of Vietnam, which Minh Duy actively monitors. It is a key a
 Minh Duy monitors specific sectors within this market, including energy, utility, and steel (e.g., GAS, HPG, BWE, TDM). This demonstrates a diverse interest beyond his core AI research.
 
 ## Sources
-- [wiki/sources/minh-duy-profile-2026.md] (New information provided in this ingest)
+- [Minh Duy's current professional and personal profile, detailing his AI specialization and ventures.](wiki/sources/minh-duy-profile-2026.md)
