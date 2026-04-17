@@ -1,2 +1,2 @@
 ## [2026-05-15] ingest | Minh Duy's current professional and personal profile, detailing his AI specialization and ventures.
-Updated the source page, significantly expanded the entity profile for Minh Duy (Rzy), created the Lowkie project entity, and updated the wiki overview to reflect his current specialization and entrepreneurial activities.
+Updated the source page, updated the entity page for Minh Duy (Rzy), and updated the overview to reflect his current specialization and entrepreneurial activities.
