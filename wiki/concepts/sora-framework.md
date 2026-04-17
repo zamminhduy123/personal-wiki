@@ -9,4 +9,4 @@ The Specific Operations Risk Assessment (SORA) framework is a structured methodo
 Minh Duy utilizes the SORA framework as the basis for his research, applying Machine Learning and Deep Learning techniques to quantify and assess the threats posed by UAVs in specific operational environments. This integration allows for a data-driven risk assessment beyond simple threat identification.
 
 ## Sources
-- [Minh Duy's current professional and personal profile, detailing his AI specialization and ventures.](wiki/sources/minh-duy-profile-2026.md)
+- [Minh Duy's current professional and personal profile, detailing his AI specialization and ventures.](wiki/sources/new-minh-duy-profile.md)

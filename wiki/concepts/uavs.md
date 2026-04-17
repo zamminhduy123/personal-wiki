@@ -9,4 +9,4 @@ Unmanned Aerial Vehicles (UAVs), commonly known as drones, are aircraft that ope
 UAVs are central to Minh Duy's research specialization. His work focuses on using Machine Learning and Deep Learning to quantify the threats posed by these vehicles, particularly within the context of the SORA framework, which assesses operational risks.
 
 ## Sources
-- [Minh Duy's current professional and personal profile, detailing his AI specialization and ventures.](wiki/sources/minh-duy-profile-2026.md)
+- [Minh Duy's current professional and personal profile, detailing his AI specialization and ventures.](wiki/sources/new-minh-duy-profile.md)

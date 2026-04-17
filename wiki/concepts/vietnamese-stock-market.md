@@ -9,4 +9,4 @@ The financial market of Vietnam, which Minh Duy actively monitors. He shows part
 This represents a key personal interest and area of financial monitoring for Minh Duy, demonstrating his diverse interests beyond pure technology and AI research.
 
 ## Sources
-- [Minh Duy's current professional and personal profile, detailing his AI specialization and ventures.](wiki/sources/minh-duy-profile-2026.md)
+- [Minh Duy's current professional and personal profile, detailing his AI specialization and ventures.](wiki/sources/new-minh-duy-profile.md)

@@ -13,4 +13,4 @@ Lowkie is a fitness-focused snack initiative founded by Minh Duy. It specializes
 - **Development:** Baking and formulation experiments conducted in late 2025.
 
 ## Sources
-- [Minh Duy's current professional and personal profile, detailing his AI specialization and ventures.](wiki/sources/minh-duy-profile-2026.md)
+- [Minh Duy's current professional and personal profile, detailing his AI specialization and ventures.](wiki/sources/new-minh-duy-profile.md)
