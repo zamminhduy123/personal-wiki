@@ -11,3 +11,4 @@ Minh Duy demonstrates entrepreneurial activity through founding Lowkie, a fitnes
 ## Sources
 - [Minh Duy Profile Summary](wiki/sources/new-minh-duy-profile.md)
 - [Minh Duy's Professional and Personal Profile (2026)](wiki/sources/minh-duy-profile-2026.md)
+- [Minh Duy (Rzy)](wiki/entities/minh-duy-rzy.md)

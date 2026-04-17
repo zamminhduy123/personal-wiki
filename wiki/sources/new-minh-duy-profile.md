@@ -6,22 +6,18 @@ original_file: raw_sources/new-minh-duy-profile.md
 ---
 
 ## Summary
-Minh Duy is an AI Engineer and Research Engineer based in Ho Chi Minh City, Vietnam. His professional focus is applying Machine Learning and Deep Learning to quantify threats posed by Unmanned Aerial Vehicles (UAVs) using the SORA framework. Beyond his technical work, he is an entrepreneur, having founded Lowkie, a fitness-focused snack brand, and maintains a keen interest in the Vietnamese stock market.
+Minh Duy is an AI Engineer and Research Engineer based in Ho Chi Minh City, Vietnam. His professional focus is applying Machine Learning and Deep Learning to quantify threats posed by Unmanned Aerial Vehicles (UAVs) using the SORA framework. Beyond his technical career, he is an entrepreneur, having founded Lowkie, a fitness-focused snack brand, and maintains a keen interest in the Vietnamese stock market.
 
 ## Key Facts
-- **Name/Aliases:** Minh Duy (Rzy).
+- **Aliases:** Rzy.
 - **Current Location:** Ho Chi Minh City, Vietnam.
-- **Previous Location:** Cheonan, South Korea.
 - **Education:** Master’s degree (graduated Feb 2026) from Soonchunhyang University.
-- **Primary Roles:** AI Engineer / Research Engineer.
-- **Specialization:** Using ML/DL to quantify UAV threats within the SORA framework.
-- **Technical Focus:** Coding, Computer Science, and building practical automation tools or bots.
-- **Domain Preferences:** Highly focused on Machine Learning applications; explicitly not focused on Biology.
-- **Venture:** Founder of Lowkie (protein-enriched cookies).
-- **Interests:** Fitness, Vietnamese stock market (energy, utility, steel sectors, e.g., GAS, HPG, BWE, TDM).
-- **Timeline:** Relocated to HCMC in April 2026.
-- **Milestones:** Completed Master's degree (Feb 2026); Relocated to HCMC (April 2026).
-- **Career Activity:** Actively interviewing for AI Scientist/Engineer roles.
+- **Professional Focus:** AI/ML research, specifically quantifying UAV threats using SORA.
+- **Venture:** Founder of Lowkie (fitness snacks).
+- **Interests:** Fitness, bodybuilding, and monitoring the Vietnamese stock market.
+- **Career Status:** Actively interviewing for AI Scientist/Engineer roles (early 2026).
+- **Technical Skills:** Coding, Computer Science, building practical automation tools/bots.
+- **Timeline:** Relocated to HCMC in April 2026 after graduating in Feb 2026.
 
 ## Entities Mentioned
 - [Minh Duy (Rzy)](wiki/entities/minh-duy-rzy.md)
@@ -29,14 +25,23 @@ Minh Duy is an AI Engineer and Research Engineer based in Ho Chi Minh City, Viet
 - [Vietnam](wiki/entities/vietnam.md)
 - [Soonchunhyang University](wiki/entities/soonchunhyang-university.md)
 - [Lowkie](wiki/entities/lowkie.md)
-- [Vietnamese stock market](wiki/entities/vietnamese-stock-market.md)
+- [SORA framework](wiki/concepts/sora-framework.md)
+- [UAVs](wiki/concepts/uavs.md)
+- [AI Engineer](wiki/concepts/ai-engineer.md)
+- [AI Scientist](wiki/concepts/ai-scientist.md)
+- [Vietnamese Stock Market](wiki/concepts/vietnamese-stock-market.md)
+- [Fitness](wiki/concepts/fitness.md)
+- [Machine Learning](wiki/concepts/machine-learning.md)
+- [Deep Learning](wiki/concepts/deep-learning.md)
+- [Entrepreneurship](wiki/concepts/entrepreneurship.md)
 
 ## Concepts Mentioned
-- [AI Engineer](wiki/concepts/ai-engineer.md)
-- [Research Engineer](wiki/concepts/ai-engineer.md)
-- [Deep Learning](wiki/concepts/deep-learning.md)
-- [Unmanned Aerial Vehicles (UAVs)](wiki/concepts/uavs.md)
 - [SORA framework](wiki/concepts/sora-framework.md)
-- [Entrepreneurship](wiki/concepts/entrepreneurship.md)
+- [UAVs](wiki/concepts/uavs.md)
+- [AI Engineer](wiki/concepts/ai-engineer.md)
+- [AI Scientist](wiki/concepts/ai-scientist.md)
+- [Vietnamese Stock Market](wiki/concepts/vietnamese-stock-market.md)
 - [Fitness](wiki/concepts/fitness.md)
-- [Vietnamese stock market](wiki/concepts/vietnamese-stock-market.md)
+- [Machine Learning](wiki/concepts/machine-learning.md)
+- [Deep Learning](wiki/concepts/deep-learning.md)
+- [Entrepreneurship](wiki/concepts/entrepreneurship.md)
