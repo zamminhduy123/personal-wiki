@@ -1,6 +1,6 @@
----
+--- 
 type: entity
-enity_type: person
+entity_type: person
 ---
 
 ## Overview
@@ -17,5 +17,5 @@ Minh Duy, also known by the alias Rzy, is a specialized AI Engineer and research
 - **Timeline:** Relocated to HCMC in April 2026.
 
 ## Sources
-- [wiki/sources/minh-duy-profile-2026.md] (New information provided in this ingest)
+- [wiki/sources/minh-duy-profile-2026.md] (Detailed profile information)
 - [wiki/sources/bio.md] (General profile information)

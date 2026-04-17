@@ -13,4 +13,4 @@ Nguyen Thanh Minh Duy is a professional who has worked in various technical role
 - **Education:** Master’s degree from Soonchunhyang University (graduated February 2026).
 
 ## Sources
-- [Minh Duy's current professional and personal profile, detailing his AI specialization and ventures.](wiki/sources/new-minh-duy-profile-2026.md)
+- [Minh Duy's current professional and personal profile, detailing his AI specialization and ventures.](wiki/sources/minh-duy-profile-2026.md)

@@ -1,2 +1,2 @@
-## [2026-05-15] ingest | Minh Duy's Current Profile and Ventures
-Integrated Minh Duy's updated profile, detailing his AI specialization in UAV threat quantification (SORA framework), his entrepreneurial venture Lowkie, and his interest in the Vietnamese stock market. Updated entities/minh-duy-rzy.md, entities/lowkie.md, and concepts/sora-framework.md.
+## [2026-05-20] ingest | Minh Duy's current professional and personal profile, detailing his AI specialization and ventures.
+Ingested detailed profile information for Minh Duy (Rzy). Updated his entity page, expanded concepts related to UAVs and SORA, and added details about his entrepreneurial and financial interests.
