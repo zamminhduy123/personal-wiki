@@ -31,7 +31,7 @@
 | wiki/concepts/machine-learning.md | General field of using data to train algorithms for prediction. |
 | wiki/concepts/machine-learning-applications.md | Practical implementation of ML techniques to solve real-world problems. |
 | wiki/concepts/uavs.md | Aircraft operating without a human pilot, central to Minh Duy's current research. |
-| wiki/concepts/sora-framework.md | Structured methodology for assessing operational risks, particularly involving UAVs. |
+| wiki/concepts/sora-framework.md | Structured methodology for assessing operational risks, particularly involving Unmanned Aerial Vehicles (UAVs). |
 | wiki/concepts/ai-engineer.md | Professional role focused on designing and implementing AI solutions. |
 | wiki/concepts/ai-scientist.md | Professional role focused on theoretical AI research and development. |
 | wiki/concepts/entrepreneurship.md | The process of creating and managing a new business venture. |

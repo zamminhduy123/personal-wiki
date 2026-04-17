@@ -9,11 +9,12 @@ Minh Duy, also known by the alias Rzy, is a highly skilled AI Engineer and Resea
 ## Key Facts
 - **Aliases:** Rzy.
 - **Current Location:** Ho Chi Minh City, Vietnam.
+- **Previous Location:** Cheonan, South Korea.
 - **Education:** Master’s degree from Soonchunhyang University (completed Feb 2026).
 - **Professional Focus:** AI Engineer / Research Engineer.
 - **Specialization:** UAV threat quantification using ML/DL and SORA.
 - **Venture:** Founder of Lowkie (fitness snacks).
-- **Interests:** Vietnamese stock market (energy, utility, steel sectors). 
+- **Interests:** Vietnamese stock market (energy, utility, steel sectors).
 - **Timeline:** Relocated to HCMC in April 2026.
 
 ## Sources
