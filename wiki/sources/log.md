@@ -1,2 +1,2 @@
 ## [2026-04-14] ingest | Minh Duy's current professional and personal profile, detailing his AI specialization and ventures.
-Updated the profile, creating a new entity entry for Minh Duy (Rzy), and updating the overall wiki overview to reflect his current status and interests.
+Updated entities/minh-duy-rzy.md, entities/lowkie.md, and concepts/sora-framework.md. Updated the wiki overview and index.
