@@ -4,12 +4,11 @@ entity_type: city
 ---
 
 ## Overview
-Ho Chi Minh City (HCMC) is a major economic, cultural, and commercial hub in Southern Vietnam. It is a key center for technology, finance, and industry, attracting significant investment and talent.
+Ho Chi Minh City (HCMC) is a major economic and cultural hub in Southern Vietnam. It is the current location of Minh Duy and a center for his professional activities.
 
 ## Key Facts
-- **Status:** Major economic and cultural hub in Southern Vietnam.
-- **Significance:** Center for technology and finance in Vietnam.
-- **Context:** Current location and base of operations for Minh Duy.
+- **Significance:** Major economic and cultural hub in Southern Vietnam.
+- **Current Activity:** Location where Minh Duy relocated in April 2026.
 
 ## Sources
-- [Minh Duy's Professional and Personal Profile (2026)](wiki/sources/minh-duy-profile-2026.md)
+- [Minh Duy's Professional and Personal Profile](wiki/sources/minh-duy-profile-2026.md)
