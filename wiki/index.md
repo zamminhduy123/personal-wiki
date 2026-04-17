@@ -1,6 +1,6 @@
 ```markdown
 | File | Summary |
-|---|---|
+|---|---| 
 | wiki/sources/cv-duynguyen.md | CV of Nguyen Thanh Minh Duy, detailing deep learning research and software engineering experience. |
 | wiki/sources/new-minh-duy-profile-2026.md | Minh Duy's current professional and personal profile, detailing his AI specialization and ventures. |
 | wiki/sources/minh-duy-profile-2026.md | Minh Duy's current professional and personal profile, detailing his AI specialization and ventures. |
