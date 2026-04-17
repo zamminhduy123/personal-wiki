@@ -10,4 +10,4 @@ CT Group is a company that Minh Duy has interacted with during his job search pr
 - Role: Potential employer or collaborator for Minh Duy.
 
 ## Sources
-- [Minh Duy's Professional and Personal Profile (2026)](wiki/sources/minh-duy-profile-2026.md)
+- [Minh Duy's current professional and personal profile, detailing his AI specialization and ventures.](wiki/sources/new-minh-duy-profile-2026.md)

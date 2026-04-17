@@ -1,37 +1,35 @@
 --- 
 type: source
-date: 2026-04-14
+date: 2026-05-15
 title: Minh Duy's current professional and personal profile, detailing his AI specialization and ventures.
-original_file: raw_sources/minh-duy-profile-2026.txt
+original_file: raw_sources/new-minh-duy-profile-2026.md
 ---
 
 ## Summary
-This profile provides a comprehensive update on Minh Duy's professional life as of 2026. It confirms his specialization in using ML/DL for quantifying UAV threats within the SORA framework. It also details his entrepreneurial activities (Lowkie) and his personal interests, including fitness and monitoring the Vietnamese stock market. The document also provides a detailed timeline of his recent professional and personal milestones.
+Minh Duy is a highly specialized AI professional and researcher, currently based in Ho Chi Minh City, Vietnam. His expertise lies in applying Machine Learning and Deep Learning to quantify threats posed by Unmanned Aerial Vehicles (UAVs) within the SORA (Specific Operations Risk Assessment) framework. Beyond his technical career goals (AI Engineer/Scientist), he is also an entrepreneur, having founded Lowkie, a fitness-focused snack brand, and maintains a keen interest in the Vietnamese stock market.
 
 ## Key Facts
-- **Specialization:** Quantifying UAV threats using ML/DL within the SORA framework.
-- **Venture:** Founder of Lowkie (fitness-focused snack initiative). The brand operates under the concept of "Ăn ngon, tập khỏe" (Eat well, train hard).
-- **Interests:** Fitness, bodybuilding, monitoring the Vietnamese stock market (e.g., energy, utility, steel sectors). 
-- **Career Goal:** Seeking AI Scientist/Engineer roles.
-- **Timeline:** Relocated to HCMC in April 2026. Completed Master's degree in February 2026.
-- **Technical Focus:** Coding, Computer Science, and building practical automation tools or bots.
+- **Aliases:** Rzy.
+- **Current Location:** Ho Chi Minh City, Vietnam.
 - **Education:** Master’s degree completed in February 2026 from Soonchunhyang University.
-- **Previous Location:** Cheonan, South Korea.
+- **Specialization:** Quantifying UAV threats using ML/DL within the SORA framework.
+- **Technical Focus:** Coding, Computer Science, and building practical automation tools/bots.
+- **Venture:** Founder of Lowkie, a fitness-focused snack initiative (protein-enriched cookies). The brand operates under the concept of "Ăn ngon, tập khỏe".
+- **Interests:** Fitness, bodybuilding, and monitoring the Vietnamese stock market (e.g., GAS, HPG, BWE, TDM).
+- **Timeline:** Relocated to HCMC in April 2026.
+- **Career Goals:** Actively pursuing roles as an AI Scientist or AI Engineer.
 
 ## Entities Mentioned
 - [Minh Duy (Rzy)](wiki/entities/minh-duy-rzy.md)
-- [Nguyen Thanh Minh Duy](wiki/entities/nguyen-thanh-minh-duy.md)
-- [Lowkie](wiki/entities/lowkie.md)
-- [Ho Chi Minh City](wiki/entities/ho-chi-minh-city.md)
-- [Vietnam](wiki/entities/vietnam.md)
+- [Soonchunhyang University](wiki/entities/soonchunhyang-university.md)
 - [Zalo](wiki/entities/zalo.md)
 - [CT Group](wiki/entities/ct-group.md)
-- [Soonchunhyang University](wiki/entities/soonchunhyang-university.md)
+- [Ho Chi Minh City](wiki/entities/ho-chi-minh-city.md)
+- [Vietnam](wiki/entities/vietnam.md)
 
 ## Concepts Mentioned
 - [Deep Learning](wiki/concepts/deep-learning.md)
-- [Machine Learning](wiki/concepts/machine-learning.md)
-- [SORA (Specific Operations Risk Assessment)](wiki/concepts/sora-framework.md)
+- [SORA Framework](wiki/concepts/sora-framework.md)
 - [UAVs](wiki/concepts/uavs.md)
 - [AI Engineer](wiki/concepts/ai-engineer.md)
 - [AI Scientist](wiki/concepts/ai-scientist.md)
