@@ -1,20 +1,19 @@
 --- 
 type: entity
-enity_type: person
+entity_type: person
 ---
 
 ## Overview
-Minh Duy, also known by the alias Rzy, is a specialized AI Engineer and research professional. He is currently based in Ho Chi Minh City, Vietnam. His expertise lies in applying advanced Machine Learning and Deep Learning to solve complex, real-world problems, particularly in the domain of Unmanned Aerial Vehicles (UAVs) threat quantification using the SORA framework.
+Minh Duy, also known by the alias Rzy, is an AI Engineer and Research Engineer specializing in applying Machine Learning and Deep Learning to quantify threats from Unmanned Aerial Vehicles (UAVs) within the SORA framework. He is an entrepreneur and founder of Lowkie, a fitness-focused snack brand. He is currently based in Ho Chi Minh City, Vietnam.
 
 ## Key Facts
-- **Aliases:** Rzy.
-- **Current Location:** Ho Chi Minh City, Vietnam.
-- **Education:** Master’s degree completed (February 2026) from Soonchunhyang University.
-- **Professional Roles:** AI Engineer / Research Engineer.
-- **Specialization:** Quantifying UAV threats using ML/DL and SORA.
-- **Venture:** Founder of Lowkie, a fitness-focused snack brand.
+- **Professional Focus:** AI Engineer/Research Engineer specializing in UAV threat quantification using ML/DL and SORA.
+- **Education:** Master's degree completed (February 2026) from Soonchunhyang University.
+- **Career Status:** Actively interviewing for AI Scientist/Engineer roles (early 2026).
+- **Venture:** Founder of Lowkie, a protein-enriched cookie brand ("Ăn ngon, tập khỏe").
 - **Interests:** Monitoring the Vietnamese stock market (energy, utility, steel sectors).
-- **Timeline:** Relocated to HCMC in April 2026; previously in Cheonan, South Korea.
+- **Timeline:** Relocated to Ho Chi Minh City in April 2026; previously lived in Cheonan, South Korea.
+- **Technical Skills:** Proficient in coding, computer science, and building practical automation tools or bots.
 
 ## Sources
 - [Minh Duy's current professional and personal profile, detailing his AI specialization and ventures.](wiki/sources/new-minh-duy-profile-2026.md)

@@ -1,2 +1,2 @@
 ## [2026-04-14] ingest | Minh Duy's current professional and personal profile, detailing his AI specialization and ventures.
-Updated the source page, updated the entity page for Minh Duy (Rzy), and updated the index and overview.
+Ingested Minh Duy's updated profile, detailing his specialization in UAV threat quantification using SORA, his role as Lowkie founder, and his move to Ho Chi Minh City.
