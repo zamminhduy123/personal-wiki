@@ -16,6 +16,7 @@ This profile details Minh Duy's current professional status, academic background
 - **Interests:** Monitoring the Vietnamese stock market (energy, utility, steel sectors).
 - **Timeline:** Relocated to Ho Chi Minh City in April 2026; previously lived in Cheonan, South Korea.
 - **Technical Skills:** Proficient in coding, computer science, and building practical automation tools or bots.
+- **Key Milestones:** Completed Master's degree (Feb 2026); Relocated to HCMC (Apr 2026).
 
 ## Entities Mentioned
 - [Minh Duy (Rzy)](wiki/entities/minh-duy-rzy.md)
