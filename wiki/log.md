@@ -6,6 +6,9 @@ New entries are prepended at the top.
 ---
 
 ## [2026-04-14] ingest | Minh Duy's current professional and personal profile, detailing his AI specialization and ventures.
+Updated Minh Duy's entity page, created concept pages for UAVs and SORA framework, and updated the index with the new source document.
+
+## [2026-04-14] ingest | Minh Duy's current professional and personal profile, detailing his AI specialization and ventures.
 Updated entities/lowkie.md with details about the founder's venture. 
 
 ## [2026-04-15] ingest | Minh Duy Profile Summary
