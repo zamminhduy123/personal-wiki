@@ -6,31 +6,29 @@ original_file: raw_sources/minh-duy-profile-2026.md
 ---
 
 ## Summary
-Minh Duy, also known as Rzy, is an AI Engineer and Research Engineer based in Ho Chi Minh City, Vietnam. He specializes in applying Machine Learning and Deep Learning to quantify threats posed by Unmanned Aerial Vehicles (UAVs) using the SORA (Specific Operations Risk Assessment) framework. His background includes completing a Master's degree from Soonchunhyang University in February 2026. Beyond his technical career, he is an entrepreneur, founding Lowkie, a fitness-focused snack initiative. He maintains a strong interest in fitness and monitoring the Vietnamese stock market.
+Minh Duy's profile details his transition into a specialized AI role, focusing on quantifying UAV threats using advanced ML/DL techniques within the SORA framework. The document outlines his background, his entrepreneurial venture (Lowkie), and his active pursuit of AI Scientist/Engineer roles in Ho Chi Minh City.
 
 ## Key Facts
-- **Name/Alias:** Minh Duy (Rzy).
-- **Current Location:** Ho Chi Minh City, Vietnam.
+- **Specialization:** Quantifying UAV threats using ML/DL and the SORA framework.
 - **Education:** Master’s degree from Soonchunhyang University (graduated February 2026).
-- **Primary Roles:** AI Engineer / Research Engineer.
-- **Specialization:** Quantifying UAV threats using ML/DL within the SORA framework.
-- **Venture:** Founder of Lowkie (protein-enriched snack initiative).
-- **Interests:** Fitness, Vietnamese stock market (monitoring energy, utility, and steel sectors).
-- **Timeline:** Relocated to HCMC in April 2026; completed Master's degree in Feb 2026.
+- **Venture:** Founder of Lowkie, a fitness-focused snack brand.
+- **Interests:** Fitness, monitoring Vietnamese stock market sectors (energy, utility, steel).
+- **Timeline:** Relocated to Ho Chi Minh City in April 2026.
 
 ## Entities Mentioned
 - [Minh Duy (Rzy)](wiki/entities/minh-duy-rzy.md)
-- [Ho Chi Minh City](wiki/entities/ho-chi-minh-city.md)
 - [Soonchunhyang University](wiki/entities/soonchunhyang-university.md)
-- [Lowkie](wiki/entities/lowkie.md)
+- [Ho Chi Minh City](wiki/entities/ho-chi-minh-city.md)
 - [Vietnam](wiki/entities/vietnam.md)
-- [SORA framework](wiki/concepts/sora-framework.md)
-- [UAVs](wiki/concepts/uavs.md)
-- [Vietnamese stock market](wiki/concepts/vietnamese-stock-market.md)
+- [Zalo](wiki/entities/zalo.md)
+- [CT Group](wiki/entities/ct-group.md)
 
 ## Concepts Mentioned
 - [Deep Learning](wiki/concepts/deep-learning.md)
-- [Machine Learning](wiki/concepts/machine-learning.md)
+- [SORA framework](wiki/concepts/sora-framework.md)
+- [UAVs](wiki/concepts/uavs.md)
 - [AI Engineer](wiki/concepts/ai-engineer.md)
-- [Research Engineer](wiki/concepts/research-engineer.md)
+- [AI Scientist](wiki/concepts/ai-scientist.md)
 - [Entrepreneurship](wiki/concepts/entrepreneurship.md)
+- [Fitness](wiki/concepts/fitness.md)
+- [Vietnamese Stock Market](wiki/concepts/vietnamese-stock-market.md)
