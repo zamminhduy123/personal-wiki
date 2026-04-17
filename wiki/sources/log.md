@@ -1,2 +1,2 @@
 ## [2026-04-14] ingest | Minh Duy's current professional and personal profile, detailing his AI specialization and ventures.
-Ingested Minh Duy's updated profile, detailing his specialization in UAV threat quantification, his role as Lowkie founder, and his relocation to HCMC.
+Updated Minh Duy's profile (entities/minh-duy-rzy.md), added the new source (sources/new-minh-duy-profile-2026.md), and updated the index and overview.
