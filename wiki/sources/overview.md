@@ -1,13 +1,3 @@
-# Wiki Overview
+## Overview
 
-This document is an evolving synthesis of everything in this wiki.
-The Librarian updates it when a new source materially changes the big picture.
-
-## Core Themes
-
-1. **AI Specialization:** Minh Duy is establishing himself as an AI Engineer/Scientist, focusing on advanced ML/DL techniques.
-2. **Risk Assessment:** His core technical focus is quantifying threats from Unmanned Aerial Vehicles (UAVs) using the structured SORA framework.
-3. **Entrepreneurship:** He is actively building a brand, Lowkie, in the fitness/nutrition space, demonstrating a parallel path of commercial development.
-4. **Personal Life:** His interests span physical fitness, financial market monitoring (Vietnamese stock market), and managing a relocation from South Korea to Ho Chi Minh City.
-
-This synthesis highlights the convergence of advanced technical research, commercial venture building, and personal development.
+Minh Duy is a highly specialized AI professional and entrepreneur based in Ho Chi Minh City, Vietnam. His core expertise lies in applying Machine Learning and Deep Learning to quantify threats posed by Unmanned Aerial Vehicles (UAVs) within the SORA framework. Professionally, he is actively seeking AI Scientist or AI Engineer roles. Beyond technology, he is an active entrepreneur, founding Lowkie, a fitness-focused snack brand, and maintains a keen interest in the Vietnamese stock market, demonstrating a multi-faceted profile spanning advanced AI research, physical fitness, and financial market analysis.
