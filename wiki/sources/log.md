@@ -1,2 +1,2 @@
 ## [2026-04-14] ingest | Minh Duy's current professional and personal profile, detailing his AI specialization and ventures.
-Ingested Minh Duy's updated profile, solidifying his specialization in UAV threat quantification and detailing his entrepreneurial and personal interests. Updated sources/new-minh-duy-profile.md, entities/minh-duy-rzy.md, entities/nguyen-thanh-minh-duy.md, and multiple concept pages.
+Updated the profile, creating a new entity entry for Minh Duy (Rzy), and updating the overall wiki overview to reflect his current status and interests.
