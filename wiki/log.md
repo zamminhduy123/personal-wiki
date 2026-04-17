@@ -5,6 +5,9 @@ New entries are prepended at the top.
 
 ---
 
+## [2026-04-14] ingest | Minh Duy's current professional and personal profile, detailing his AI specialization and ventures.
+Updated entities/lowkie.md with details about the founder's venture. 
+
 ## [2026-04-15] ingest | Minh Duy Profile Summary
 Integrated detailed personal and professional information for Minh Duy (Rzy), covering his entrepreneurial activities, financial interests, and detailed career timeline. Updated his entity page and the overall wiki overview.
 
