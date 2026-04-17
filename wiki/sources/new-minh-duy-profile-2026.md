@@ -11,7 +11,7 @@ This profile provides a comprehensive update on Minh Duy's professional life as 
 ## Key Facts
 - **Specialization:** Quantifying UAV threats using ML/DL within the SORA framework.
 - **Venture:** Founder of Lowkie (fitness-focused snack initiative). The brand operates under the concept of "Ăn ngon, tập khỏe" (Eat well, train hard).
-- **Interests:** Fitness, bodybuilding, monitoring the Vietnamese stock market (e.g., energy, utility, steel sectors).
+- **Interests:** Fitness, bodybuilding, monitoring the Vietnamese stock market (e.g., energy, utility, steel sectors). 
 - **Career Goal:** Seeking AI Scientist/Engineer roles.
 - **Timeline:** Relocated to HCMC in April 2026. Completed Master's degree in February 2026.
 - **Technical Focus:** Coding, Computer Science, and building practical automation tools or bots.

@@ -1,2 +1,2 @@
 ## [2026-04-14] ingest | Minh Duy's current professional and personal profile, detailing his AI specialization and ventures.
-Updated the source document, updated the entity for Minh Duy (Rzy), created the entity for Lowkie, updated the overview, and updated the index.
+Updated the profile source, updated Minh Duy's entity page, and created new concept pages for SORA and Vietnamese Stock Market.
