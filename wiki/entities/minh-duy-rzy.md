@@ -13,7 +13,7 @@ Minh Duy (also known as Rzy) is a highly specialized AI professional and researc
 - **Education:** Master’s degree in a technical field (graduated February 2026 from Soonchunhyang University).
 - **Primary Roles:** AI Engineer / Research Engineer.
 - **Specialization:** Quantifying UAV threats using ML/DL within the SORA framework.
-- **Technical Focus:** Coding, Computer Science, and building practical automation tools/bots.
+- **Technical Focus:** Coding, Computer Science, and building practical automation tools/bots. He is explicitly focused on ML applications, not Biology.
 - **Venture:** Founder of Lowkie (protein-enriched cookies, motto: "Ăn ngon, tập khỏe").
 - **Interests:** Fitness, bodybuilding, and monitoring the Vietnamese stock market (GAS, HPG, BWE, TDM).
 - **Timeline:** Relocated to HCMC in April 2026.
