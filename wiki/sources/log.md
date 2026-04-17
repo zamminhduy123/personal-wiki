@@ -1,2 +1,2 @@
-## [2026-04-14] ingest | Minh Duy's current professional and personal profile, detailing his AI specialization and ventures.
-Updated sources/minh-duy-profile-2026.md, entities/minh-duy-rzy.md, overview.md, and index.md with his current professional details and ventures.
+## [2026-05-15] ingest | Minh Duy's current professional and personal profile, detailing his AI specialization and ventures.
+Updated Minh Duy's entity profile, created the Lowkie project entity, and updated the overall wiki narrative to reflect his current focus on UAV risk assessment and entrepreneurship.
