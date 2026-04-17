@@ -6,27 +6,25 @@ original_file: raw_sources/minh-duy-profile-2026.md
 ---
 
 ## Summary
-Minh Duy, also known as Rzy, is an AI Engineer and Research Engineer based in Ho Chi Minh City, Vietnam. He specializes in applying Machine Learning and Deep Learning to quantify threats posed by Unmanned Aerial Vehicles (UAVs) using the SORA framework. His profile details his academic background (Master's from Soonchunhyang University, Feb 2026), his entrepreneurial venture, Lowkie, and his active interest in the Vietnamese stock market.
+Minh Duy is an AI Engineer and Research Engineer specializing in applying Machine Learning and Deep Learning to quantify threats posed by Unmanned Aerial Vehicles (UAVs) within the SORA (Specific Operations Risk Assessment) framework. He recently completed his Master's degree in February 2026 and relocated to Ho Chi Minh City, Vietnam. Beyond his technical career, he is the founder of Lowkie, a fitness-focused snack initiative, and maintains a strong interest in the Vietnamese stock market.
 
 ## Key Facts
-- **Name/Alias:** Minh Duy (Rzy).
-- **Current Location:** Ho Chi Minh City, Vietnam.
-- **Education:** Master’s degree (Soonchunhyang University, completed Feb 2026).
-- **Primary Roles:** AI Engineer / Research Engineer.
 - **Specialization:** Quantifying UAV threats using ML/DL within the SORA framework.
-- **Venture:** Founder of Lowkie, a fitness-focused snack initiative.
-- **Interests:** Vietnamese stock market (energy, utility, steel sectors).
+- **Education:** Master's degree completed February 2026 from Soonchunhyang University.
+- **Current Status:** AI Engineer/Research Engineer, actively interviewing in HCMC, Vietnam.
+- **Venture:** Founder of Lowkie, a protein-enriched cookie brand.
+- **Interests:** Fitness, bodybuilding, and monitoring the Vietnamese stock market (e.g., GAS, HPG, BWE, TDM).
 - **Timeline:** Relocated to HCMC in April 2026.
 
 ## Entities Mentioned
 - [Minh Duy (Rzy)](wiki/entities/minh-duy-rzy.md)
 - [Ho Chi Minh City](wiki/entities/ho-chi-minh-city.md)
-- [Soonchunhyang University](wiki/entities/soonchunhyang-university.md)
 - [Vietnam](wiki/entities/vietnam.md)
+- [Soonchunhyang University](wiki/entities/soonchunhyang-university.md)
 - [Lowkie](wiki/entities/lowkie.md)
-- [Unmanned Aerial Vehicles (UAVs)](wiki/entities/uavs.md)
+- [Vietnamese Stock Market](wiki/entities/vietnamese-stock-market.md)
+- [UAVs](wiki/entities/uavs.md)
 - [SORA (Specific Operations Risk Assessment)](wiki/concepts/sora-framework.md)
-- [Vietnamese Stock Market](wiki/concepts/vietnamese-stock-market.md)
 
 ## Concepts Mentioned
 - [AI Engineer](wiki/concepts/ai-engineer.md)

@@ -4,16 +4,16 @@ entity_type: person
 ---
 
 ## Overview
-Minh Duy, also known by the alias Rzy, is a highly specialized AI Engineer and Research Engineer. He is currently based in Ho Chi Minh City, Vietnam. His professional focus lies in leveraging Machine Learning and Deep Learning to quantify threats posed by Unmanned Aerial Vehicles (UAVs) within the structured SORA (Specific Operations Risk Assessment) framework. He is also an active entrepreneur, having founded Lowkie, a fitness-focused snack brand.
+Minh Duy (also known as Rzy) is a highly skilled AI Engineer and Research Engineer. He specializes in applying Machine Learning and Deep Learning to quantify threats posed by Unmanned Aerial Vehicles (UAVs) within the SORA (Specific Operations Risk Assessment) framework. He is an active entrepreneur and has established a presence in Ho Chi Minh City, Vietnam.
 
 ## Key Facts
 - **Aliases:** Rzy.
+- **Specialization:** Quantifying UAV threats using ML/DL within the SORA framework.
+- **Education:** Master's degree completed February 2026 from Soonchunhyang University.
 - **Current Location:** Ho Chi Minh City, Vietnam.
-- **Education:** Master’s degree from Soonchunhyang University (completed February 2026).
-- **Professional Focus:** AI/ML research, specifically UAV threat quantification using SORA.
-- **Venture:** Founder of Lowkie (fitness snacks).
-- **Interests:** Monitoring the Vietnamese stock market (energy, utility, steel sectors).
-- **Timeline:** Relocated to HCMC in April 2026.
+- **Venture:** Founder of Lowkie, a fitness-focused snack initiative.
+- **Interests:** Fitness, bodybuilding, and monitoring the Vietnamese stock market.
+- **Career Status:** Actively interviewing for AI Scientist/Engineer roles (as of early 2026).
 
 ## Sources
 - [Minh Duy's current professional and personal profile, detailing his AI specialization and ventures.](wiki/sources/minh-duy-profile-2026.md)
@@ -24,5 +24,6 @@ Minh Duy, also known by the alias Rzy, is a highly specialized AI Engineer and R
 - [Deep Learning](wiki/concepts/deep-learning.md)
 - [Machine Learning](wiki/concepts/machine-learning.md)
 - [SORA (Specific Operations Risk Assessment)](wiki/concepts/sora-framework.md)
-- [Unmanned Aerial Vehicles (UAVs)](wiki/concepts/uavs.md)
+- [UAVs](wiki/entities/uavs.md)
+- [AI Engineer](wiki/concepts/ai-engineer.md)
 - [Entrepreneurship](wiki/concepts/entrepreneurship.md)

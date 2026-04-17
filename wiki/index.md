@@ -1,3 +1,4 @@
+## Current wiki/index.md
 | File | Summary |
 |---|---| 
 | wiki/SCHEMA.md | Librarian operating manual — conventions and workflows. |
