@@ -1,14 +1,17 @@
 ---
 type: entity
-enity_type: market
+entity_type: project
 ---
 
 ## Overview
-The financial market of Vietnam. Minh Duy actively monitors this market, showing specific interest in the energy, utility, and steel sectors, including tickers like GAS, HPG, BWE, and TDM.
+The financial market of Vietnam. Minh Duy has demonstrated active interest in monitoring this market, particularly the energy, utility, and steel sectors (e.g., GAS, HPG, BWE, TDM).
 
 ## Key Facts
-- **Focus Areas:** Energy, utility, and steel sectors.
-- **Monitoring:** Active interest in market trends and financial movements.
+- **Focus Sectors:** Energy, Utility, Steel.
+- **Monitored Tickers:** GAS, HPG, BWE, TDM.
 
 ## Sources
-- [wiki/sources/minh-duy-profile-2026.md](wiki/sources/minh-duy-profile-2026.md)
+- [Minh Duy's current professional and personal profile, detailing his AI specialization and ventures.](wiki/sources/minh-duy-profile-2026.md)
+
+## Concepts
+- [Finance](wiki/concepts/finance.md)

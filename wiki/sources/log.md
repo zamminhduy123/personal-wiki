@@ -1,2 +1,2 @@
 ## [2026-04-14] ingest | Minh Duy's current professional and personal profile, detailing his AI specialization and ventures.
-Updated sources/new-minh-duy-profile-2026.md, entities/minh-duy-rzy.md, and overview.md with comprehensive details about his career, ventures, and relocation to HCMC.
+Updated sources/minh-duy-profile-2026.md, entities/minh-duy-rzy.md, entities/lowkie.md, entities/vietnamese-stock-market.md, concepts/finance.md, and updated wiki/overview.md and wiki/index.md.
