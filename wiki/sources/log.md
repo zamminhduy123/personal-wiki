@@ -1,2 +1,2 @@
 ## [2026-04-14] ingest | Minh Duy's Professional and Personal Profile (2026)
-Ingested Minh Duy's updated profile, detailing his specialization in UAV threat quantification, his entrepreneurial venture Lowkie, and his relocation to Ho Chi Minh City.
+Ingested Minh Duy's updated profile, detailing his transition into a specialized AI Engineer role, focusing on quantifying UAV threats using the SORA framework. Updated entities/minh-duy-rzy.md, sources/minh-duy-profile-2026.md, and concepts/sora-framework.md.

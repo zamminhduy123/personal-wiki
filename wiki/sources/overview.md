@@ -1,7 +1,1 @@
-## Wiki Overview
-
-This document is an evolving synthesis of everything in this wiki.
-
-The core narrative revolves around **Minh Duy**, a highly skilled AI Engineer and researcher. His expertise spans advanced Deep Learning techniques (e.g., Few-Shot Learning, Multi-modal ML) and practical software development (FastAPI, PyTorch). His current professional focus is quantifying threats posed by **Unmanned Aerial Vehicles (UAVs)** using the **SORA framework**. Beyond his technical career, he is actively engaged in **entrepreneurship** through **Lowkie**, a fitness-focused snack brand, and maintaining a strong interest in the **Vietnamese stock market**. His life narrative is characterized by continuous professional development, academic achievement (Master's degree from Soonchunhyang University), and relocation to Ho Chi Minh City.
-
----
+The overall narrative centers on Minh Duy, a highly skilled AI professional transitioning between deep theoretical research and practical product development. His expertise spans deep learning, anomaly detection, and advanced ML architectures (Transformers, GNNs). His current focus is quantifying UAV threats using the SORA framework, demonstrating a blend of academic rigor and real-world operational risk assessment. Furthermore, his profile highlights a strong entrepreneurial streak (Lowkie) and personal interests (fitness, Vietnamese finance), painting a picture of a multi-faceted, ambitious individual navigating career transitions in the tech and startup ecosystems of Vietnam.
