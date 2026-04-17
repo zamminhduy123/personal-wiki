@@ -1,2 +1,2 @@
 ## [2026-04-14] ingest | Minh Duy's current professional and personal profile, detailing his AI specialization and ventures.
-Ingested Minh Duy's updated profile. Updated entities/minh-duy-rzy.md, entities/lowkie.md, entities/vietnamese-stock-market.md, and concepts/sora-framework.md, concepts/uavs.md.
+Updated multiple sources, entities (minh-duy-rzy, nguyen-thanh-minh-duy), and concepts (uavs, sora-framework, ai-engineer, ai-scientist, entrepreneurship, fitness, vietnamese-stock-market) with the latest professional details.
