@@ -10,4 +10,4 @@ Vietnam is the country where Minh Duy currently resides and where he is actively
 - **Significance:** Location of Minh Duy's current life and business interests.
 
 ## Sources
-- [Minh Duy's current professional and personal profile, detailing his AI specialization and ventures.](wiki/sources/minh-duy-profile-2026.md)
+- [Minh Duy's current professional and personal profile, detailing his AI specialization and ventures.](wiki/sources/new-minh-duy-profile-2026.md)

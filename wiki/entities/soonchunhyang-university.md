@@ -1,6 +1,6 @@
 --- 
 type: entity
-enity_type: org
+entity_type: org
 ---
 
 ## Overview
