@@ -1,2 +1,2 @@
-## [2026-05-20] ingest | Minh Duy's current professional and personal profile, detailing his AI specialization and ventures.
-Ingested detailed profile information for Minh Duy (Rzy). Updated his entity page, expanded concepts related to UAVs and SORA, and added details about his entrepreneurial and financial interests.
+## [2026-05-15] ingest | Minh Duy's current professional and personal profile, detailing his AI specialization and ventures.
+Updated sources/new-minh-duy-profile-2026.md, entities/minh-duy-rzy.md, overview.md, and index.md with detailed personal and professional information.
