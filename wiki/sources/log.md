@@ -1,2 +1,2 @@
 ## [2026-04-14] ingest | Minh Duy's current professional and personal profile, detailing his AI specialization and ventures.
-Updated the profile source, updated Minh Duy's entity page, and enriched the overview with his current specialization in UAV threat quantification and entrepreneurial activities.
+Updated the source page, refined Minh Duy's entity profile, and created new concept pages for SORA and Vietnamese Stock Market.
