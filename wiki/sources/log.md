@@ -1,2 +1,2 @@
 ## [2026-05-15] ingest | Minh Duy's current professional and personal profile, detailing his AI specialization and ventures.
-Ingested Minh Duy's detailed profile, updating his entity, concept, and source pages. This material solidified his roles as an AI Engineer, founder of Lowkie, and specialist in UAV risk assessment using the SORA framework.
+Updated the source page, significantly expanded the entity page for Minh Duy (Rzy), and updated the index and overview to reflect his current professional status and ventures.

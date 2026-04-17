@@ -6,7 +6,7 @@ original_file: raw_sources/new-minh-duy-profile-2026.md
 ---
 
 ## Summary
-Minh Duy is a highly specialized AI professional and researcher who focuses on applying advanced Machine Learning and Deep Learning techniques to quantify operational risks posed by Unmanned Aerial Vehicles (UAVs) using the SORA framework. He is an active entrepreneur, founding Lowkie, a fitness-focused snack brand, and maintains a keen interest in the Vietnamese stock market. This profile details his background, technical skills, and recent life milestones.
+Minh Duy is a highly specialized AI professional and researcher. He focuses on applying advanced Machine Learning and Deep Learning techniques to quantify operational risks posed by Unmanned Aerial Vehicles (UAVs) using the SORA framework. He is an active entrepreneur, founding Lowkie, a fitness-focused snack brand, and maintains a keen interest in the Vietnamese stock market. This profile details his background, technical skills, and recent life milestones.
 
 ## Key Facts
 - **Aliases:** Rzy.
