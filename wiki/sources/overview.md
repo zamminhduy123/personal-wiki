@@ -1,1 +1,8 @@
-The overall narrative centers on Minh Duy, a highly skilled AI professional who is successfully transitioning from a corporate software engineering role (Zalo) into a specialized research and entrepreneurial career. His technical focus is on applying advanced ML/DL techniques (Deep Learning, Transformers) to solve complex, real-world problems, specifically quantifying threats from UAVs within the SORA framework. Simultaneously, he is building a personal brand and business (Lowkie) rooted in fitness, while also maintaining a keen interest in the Vietnamese financial market. His life trajectory shows a clear pattern of continuous learning, geographical relocation (South Korea to HCMC), and professional reinvention, positioning him as a modern example of a technical founder/researcher.
+# Wiki Overview
+
+This document is an evolving synthesis of everything in this wiki.
+The Librarian updates it when a new source materially changes the big picture.
+
+Minh Duy (Rzy) is a highly skilled AI Engineer and Research Engineer based in Ho Chi Minh City, Vietnam. His professional focus is applying advanced Machine Learning and Deep Learning to quantify threats posed by Unmanned Aerial Vehicles (UAVs) using the SORA framework. He is also an entrepreneur, founding Lowkie, a fitness-focused snack initiative, and maintains a keen interest in the Vietnamese stock market.
+
+His background includes significant experience in software engineering and deep learning research, particularly in anomaly detection for in-vehicle networks while working at Zalo and Soonchunhyang University. He is actively pursuing opportunities as an AI Scientist.

@@ -12,3 +12,4 @@ This is a career path Minh Duy is actively exploring. It represents a shift towa
 - [Minh Duy Profile Summary](wiki/sources/new-minh-duy-profile.md)
 - [Minh Duy's current professional and personal profile, detailing his AI specialization and ventures.](wiki/sources/new-minh-duy-profile.md)
 - [Minh Duy (Rzy)](wiki/entities/minh-duy-rzy.md)
+- [Nguyen Thanh Minh Duy](wiki/entities/nguyen-thanh-minh-duy.md)

@@ -15,3 +15,4 @@ Nguyen Thanh Minh Duy is a Graduate Research Assistant and former Software Engin
 
 ## Sources
 - [CV_DUYNGUYEN.pdf](wiki/sources/cv-duynguyen.md)
+- [Minh Duy Profile Summary](wiki/sources/new-minh-duy-profile.md)
