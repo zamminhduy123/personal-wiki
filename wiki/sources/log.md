@@ -1,2 +1,2 @@
 ## [2026-04-14] ingest | Minh Duy's current professional and personal profile, detailing his AI specialization and ventures.
-Updated Minh Duy's profile, detailing his specialization in UAV threat quantification using SORA, and documenting his entrepreneurial venture, Lowkie.
+Ingested Minh Duy's updated profile, detailing his specialization in UAV threat quantification, his role as Lowkie founder, and his relocation to HCMC.
