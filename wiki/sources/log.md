@@ -1,2 +1,2 @@
-## [2026-04-14] ingest | Minh Duy's current professional and personal profile, detailing his AI specialization and ventures.
-Updated Minh Duy's profile (entities/minh-duy-rzy.md), added the new source (sources/new-minh-duy-profile-2026.md), and updated the index and overview.
+## [2026-05-20] ingest | Minh Duy's current professional and personal profile, detailing his AI specialization and ventures.
+Ingested Minh Duy's updated profile, detailing his specialization in UAV threat quantification, his role as an entrepreneur (Lowkie), and his relocation to HCMC.
