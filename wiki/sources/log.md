@@ -1,2 +1,2 @@
 ## [2026-04-14] ingest | Minh Duy's current professional and personal profile, detailing his AI specialization and ventures.
-Updated sources/minh-duy-profile-2026.md, entities/minh-duy-rzy.md, concepts/sora-framework.md, entities/lowkie.md, entities/vietnamese-stock-market.md, and updated the index and overview.
+Ingested Minh Duy's updated profile, detailing his specialization in UAV threat quantification using SORA, his entrepreneurial venture Lowkie, and his relocation to HCMC.
