@@ -1,2 +1,2 @@
 ## [2026-04-14] ingest | Minh Duy's current professional and personal profile, detailing his AI specialization and ventures.
-Updated the source page, updated the entity page for Minh Duy (Rzy), created the entity page for Lowkie, updated the overview, and updated the index.
+Updated the profile for Minh Duy (Rzy) with his latest details, including his focus on UAV threat quantification, his venture Lowkie, and his relocation to Ho Chi Minh City.
