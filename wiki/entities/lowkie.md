@@ -7,10 +7,10 @@ entity_type: project
 Lowkie is a fitness-focused snack initiative founded by Minh Duy. It specializes in developing protein-enriched cookies, operating under the concept of "Ăn ngon, tập khỏe" (Eating well, training hard).
 
 ## Key Facts
-- **Type:** Snack brand/Venture.
-- **Focus:** Protein-enriched cookies.
-- **Goal:** To provide a healthy, convenient snack for fitness enthusiasts.
+- **Product:** Protein-enriched cookies.
+- **Focus:** Fitness and nutrition, catering to muscle gain and healthy eating.
 - **Founder:** Minh Duy.
+- **Activity:** Involved daily baking and formulation experiments in late 2025.
 
 ## Sources
 - [Minh Duy's current professional and personal profile, detailing his AI specialization and ventures.](wiki/sources/new-minh-duy-profile-2026.md)
