@@ -1,2 +1,2 @@
 ## [2026-05-15] ingest | Minh Duy's current professional and personal profile, detailing his AI specialization and ventures.
-Updated the entity page for Minh Duy (Rzy) with detailed personal and professional milestones, and updated the wiki overview to reflect his current focus on AI and entrepreneurship.
+Updated the source page, enhanced the entity page for Minh Duy (Rzy), and updated the index and overview sections with his latest professional details.
