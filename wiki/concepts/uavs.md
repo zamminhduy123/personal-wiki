@@ -10,4 +10,3 @@ Minh Duy's research focuses heavily on quantifying the threats posed by UAVs. Th
 
 ## Sources
 - [Minh Duy's current professional and personal profile, detailing his AI specialization and ventures.](wiki/sources/minh-duy-profile-2026.md)
-- [Minh Duy's current professional and personal profile, detailing his AI specialization and ventures.](wiki/sources/new-minh-duy-profile.md)

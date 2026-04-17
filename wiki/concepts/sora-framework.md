@@ -9,4 +9,4 @@ SORA stands for Specific Operations Risk Assessment. It is a structured methodol
 Minh Duy specializes in applying Machine Learning and Deep Learning to quantify threats within the SORA framework, specifically concerning UAV operations. This application bridges advanced AI research with critical security and risk assessment domains.
 
 ## Sources
-- [Minh Duy's current professional and personal profile, detailing his AI specialization and ventures.](wiki/sources/new-minh-duy-profile-2026.md)
+- [Minh Duy's current professional and personal profile, detailing his AI specialization and ventures.](wiki/sources/minh-duy-profile-2026.md)

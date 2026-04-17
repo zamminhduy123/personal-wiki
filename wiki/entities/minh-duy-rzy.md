@@ -1,6 +1,6 @@
 --- 
 type: entity
-enity_type: person
+entity_type: person
 ---
 
 ## Overview
@@ -16,4 +16,4 @@ Minh Duy, also known by the alias Rzy, is a highly specialized AI Engineer and r
 - **Technical Skills:** Proficient in coding, computer science, and building practical automation tools.
 
 ## Sources
-- [Minh Duy's current professional and personal profile, detailing his AI specialization and ventures.](wiki/sources/new-minh-duy-profile-2026.md)
+- [Minh Duy's current professional and personal profile, detailing his AI specialization and ventures.](wiki/sources/minh-duy-profile-2026.md)

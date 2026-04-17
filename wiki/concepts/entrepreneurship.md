@@ -9,4 +9,4 @@ The process of creating, developing, and managing a new business venture. It inv
 Minh Duy demonstrates entrepreneurial activity through Lowkie, a fitness-focused snack initiative. This shows his ability to move from technical skills (AI/ML) into product development and market creation.
 
 ## Sources
-- [Minh Duy's current professional and personal profile, detailing his AI specialization and ventures.](wiki/sources/new-minh-duy-profile.md)
+- [Minh Duy's current professional and personal profile, detailing his AI specialization and ventures.](wiki/sources/minh-duy-profile-2026.md)
