@@ -1,2 +1,2 @@
 ## [2026-04-14] ingest | Minh Duy's current professional and personal profile, detailing his AI specialization and ventures.
-Updated Minh Duy's entity profile, created the Lowkie project entity, and updated the wiki overview to reflect his current status and interests.
+Integrated Minh Duy's updated profile, detailing his specialization in UAV threat quantification using SORA, his entrepreneurial work with Lowkie, and his interests in the Vietnamese stock market.
