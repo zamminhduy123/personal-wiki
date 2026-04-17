@@ -1,2 +1,2 @@
-## [2026-04-14] ingest | Minh Duy's current professional and personal profile, detailing his AI specialization and ventures.
-Updated entities/minh-duy-rzy.md, entities/lowkie.md, entities/ho-chi-minh-city.md, and concepts/sora-framework.md, and updated wiki/index.md.
+## [2026-05-15] ingest | Minh Duy's current professional and personal profile, detailing his AI specialization and ventures.
+Updated Minh Duy's entity profile, created new concept pages for SORA and UAVs, and updated the wiki overview and index.

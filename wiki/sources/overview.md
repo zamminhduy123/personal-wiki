@@ -1,7 +1,3 @@
-## Synthesis of Themes
+## Overview
 
-The wiki documents the professional trajectory of Minh Duy, a highly skilled AI Engineer and researcher. His expertise lies at the intersection of advanced AI methodologies (Deep Learning, ML, Transformers) and critical real-world applications, specifically quantifying threats posed by Unmanned Aerial Vehicles (UAVs) using the SORA framework. 
-
-Beyond his technical career, Minh Duy is an active entrepreneur, founding Lowkie, a fitness-focused venture. This dual focus highlights a pattern of applying structured, data-driven methodologies (whether in AI or business) to solve complex problems. 
-
-Geographically and financially, his life is centered in Ho Chi Minh City, Vietnam, where he actively monitors the Vietnamese stock market. His background shows a continuous evolution from academic research (Soonchunhyang University) to practical, high-impact industry roles (Zalo, CT Group), demonstrating a commitment to continuous learning and application of technology.
+This wiki tracks the professional and personal development of Minh Duy (Rzy), an AI specialist. The core narrative revolves around his transition into a specialized AI role (AI Engineer/Scientist) focused on quantifying Unmanned Aerial Vehicle (UAV) threats using advanced Machine Learning techniques within the SORA framework. Concurrently, the narrative tracks his entrepreneurial journey (Lowkie) and his personal interests, including fitness and monitoring the Vietnamese stock market, all centered around his relocation to Ho Chi Minh City in 2026.

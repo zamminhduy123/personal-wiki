@@ -1,15 +1,16 @@
 --- 
 type: entity
-entity_type: person
+enity_type: person
 ---
 
 ## Overview
-Nguyen Thanh Minh Duy is a specialist in deep learning and software engineering. He has a background in research, including work on intrusion detection systems and developing practical AI solutions.
+Nguyen Thanh Minh Duy is a specialist in deep learning and software engineering. He has a background in research, including work on intrusion detection systems and experience at Zalo.
 
 ## Key Facts
-- **Specialization:** Deep learning and software engineering.
-- **Research:** Published work on intrusion detection systems (Knowledge-Based Systems).
-- **Education:** Attended Soonchunhyang University.
+- **Background:** Specialist in deep learning and software engineering.
+- **Education:** Completed Master's degree from Soonchunhyang University.
+- **Experience:** Worked at Zalo, focusing on performance engineering and product development.
 
 ## Sources
+- [CV of Nguyen Thanh Minh Duy, detailing deep learning research and software engineering experience.](wiki/sources/cv-duynguyen.md)
 - [Minh Duy's current professional and personal profile, detailing his AI specialization and ventures.](wiki/sources/new-minh-duy-profile-2026.md)
