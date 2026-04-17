@@ -1,2 +1,2 @@
-## [2026-04-14] ingest | Minh Duy's current professional and personal profile, detailing his AI specialization and ventures.
-Ingested Minh Duy's updated profile, solidifying his roles as an AI Engineer and entrepreneur, and detailing his focus on UAV threat quantification using the SORA framework.
+## [2026-04-14] ingest | Minh Duy's Professional and Personal Profile
+Ingested Minh Duy's detailed profile, confirming his specialization in using ML/DL for UAV threat quantification within the SORA framework. Updated entities/minh-duy-rzy.md, concepts/sora-framework.md, and sources/minh-duy-profile-2026.md.
