@@ -1,2 +1,2 @@
 ## [2026-04-14] ingest | Minh Duy's current professional and personal profile, detailing his AI specialization and ventures.
-Updated sources/new-minh-duy-profile-2026.md, entities/minh-duy-rzy.md, entities/lowkie.md, concepts/sora-framework.md, concepts/fitness.md, and wiki/overview.md.
+Ingested Minh Duy's detailed profile, updating his entity, concepts (SORA, UAVs, AI roles), and sources. This material solidifies his focus on risk assessment and entrepreneurship.
