@@ -11,12 +11,12 @@ This profile details Minh Duy's current professional status, academic background
 ## Key Facts
 - **Professional Focus:** AI Engineer/Research Engineer specializing in UAV threat quantification using ML/DL and SORA.
 - **Education:** Master's degree completed (February 2026) from Soonchunhyang University.
-- **Career Status:** Actively interviewing for AI Scientist/Engineer roles (early 2026).
 - **Venture:** Founder of Lowkie, a protein-enriched cookie brand ("Ăn ngon, tập khỏe").
+- **Location:** Currently resides in Ho Chi Minh City, Vietnam.
 - **Interests:** Monitoring the Vietnamese stock market (energy, utility, steel sectors).
-- **Timeline:** Relocated to Ho Chi Minh City in April 2026; previously lived in Cheonan, South Korea.
 - **Technical Skills:** Proficient in coding, computer science, and building practical automation tools or bots.
-- **Key Milestones:** Completed Master's degree (Feb 2026); Relocated to HCMC (Apr 2026).
+- **Timeline:** Relocated to HCMC (April 2026); previously lived in Cheonan, South Korea.
+- **Career Activity:** Actively interviewing for AI Scientist/Engineer roles (early 2026).
 
 ## Entities Mentioned
 - [Minh Duy (Rzy)](wiki/entities/minh-duy-rzy.md)
