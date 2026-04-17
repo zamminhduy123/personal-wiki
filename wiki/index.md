@@ -1,5 +1,6 @@
+```markdown
 | File | Summary |
-|---|---| |
+|---|---| 
 | wiki/sources/cv-duynguyen.md | CV of Nguyen Thanh Minh Duy, detailing deep learning research and software engineering experience. |
 | wiki/sources/new-minh-duy-profile-2026.md | Minh Duy's current professional and personal profile, detailing his AI specialization and ventures. |
 | wiki/sources/minh-duy-profile-2026.md | Minh Duy's current professional and personal profile, detailing his AI specialization and ventures. |
@@ -33,4 +34,4 @@
 | wiki/concepts/ai-scientist.md | Professional role focused on theoretical AI research and development. |
 | wiki/concepts/entrepreneurship.md | The process of creating and managing a new business venture. |
 | wiki/concepts/fitness.md | State of being physically healthy, related to bodybuilding and nutrition. |
-| wiki/concepts/vietnamese-stock-market.md | Financial market of Vietnam, monitored by Minh Duy.|
+| wiki/concepts/vietnamese-stock-market.md | Financial market of Vietnam, monitored by Minh Duy.|```
