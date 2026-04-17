@@ -1,2 +1,2 @@
-## [2026-05-20] ingest | Minh Duy's current professional and personal profile, detailing his AI specialization and ventures.
-Ingested Minh Duy's comprehensive profile, detailing his AI specialization in UAV threat quantification, his entrepreneurial venture Lowkie, and his relocation to Ho Chi Minh City.
+## [2026-04-14] ingest | Minh Duy's current professional and personal profile, detailing his AI specialization and ventures.
+Updated sources/new-minh-duy-profile-2026.md, entities/minh-duy-rzy.md, and overview.md with comprehensive details about his career, ventures, and relocation to HCMC.
