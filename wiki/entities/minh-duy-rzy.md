@@ -9,6 +9,7 @@ Minh Duy (also known as Rzy) is a highly specialized AI professional and researc
 ## Key Facts
 - **Aliases:** Rzy.
 - **Current Location:** Ho Chi Minh City, Vietnam.
+- **Previous Location:** Cheonan, South Korea.
 - **Education:** Master’s degree (graduated February 2026) from Soonchunhyang University.
 - **Professional Roles:** AI Engineer / Research Engineer.
 - **Specialization:** Quantifying UAV threats using ML/DL within the SORA framework.
