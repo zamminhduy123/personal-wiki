@@ -3,10 +3,11 @@ type: concept
 ---
 
 ## Definition
-Unmanned Aerial Vehicles (UAVs), commonly known as drones, are aircraft that operate without a human pilot onboard. They are central to modern surveillance, military applications, and commercial inspection tasks.
+Unmanned Aerial Vehicles (UAVs) are aircraft that operate without a human pilot onboard. They are central to modern surveillance, military, and commercial applications, and represent a key area of research for Minh Duy.
 
 ## How It Applies Here
-In the context of Minh Duy's research, UAVs are the primary subject of threat quantification. The goal is to use Machine Learning and Deep Learning to assess the operational risks and potential threats posed by these vehicles, particularly within the structured methodology of the SORA framework.
+Minh Duy's research focuses heavily on quantifying the threats posed by UAVs. This involves using advanced ML/DL techniques within the SORA framework to assess operational risks associated with these vehicles.
 
 ## Sources
 - [Minh Duy's current professional and personal profile, detailing his AI specialization and ventures.](wiki/sources/minh-duy-profile-2026.md)
+- [Minh Duy's current professional and personal profile, detailing his AI specialization and ventures.](wiki/sources/new-minh-duy-profile.md)
