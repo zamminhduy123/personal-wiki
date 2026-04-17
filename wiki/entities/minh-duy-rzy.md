@@ -4,7 +4,7 @@ entity_type: person
 ---
 
 ## Overview
-Minh Duy (also known as Rzy) is a highly specialized AI professional and researcher. He focuses on applying advanced Machine Learning and Deep Learning techniques to quantify operational risks posed by Unmanned Aerial Vehicles (UAVs) within the SORA (Specific Operations Risk Assessment) framework. He is an active entrepreneur and has a strong interest in fitness and the Vietnamese stock market.
+Minh Duy (also known as Rzy) is a highly specialized AI professional and researcher. He focuses on applying advanced Machine Learning and Deep Learning techniques to quantify operational risks posed by Unmanned Aerial Vehicles (UAVs) using the SORA framework. He is an active entrepreneur and founder of Lowkie, a fitness-focused snack brand.
 
 ## Key Facts
 - **Aliases:** Rzy.
