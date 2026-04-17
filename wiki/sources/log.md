@@ -1,2 +1,2 @@
-## [2026-05-15] ingest | Minh Duy's current professional and personal profile, detailing his AI specialization and ventures.
-Updated the source page, updated the entity page for Minh Duy (Rzy), and updated the overview to reflect his current specialization and entrepreneurial activities.
+## [2026-04-14] ingest | Minh Duy's current professional and personal profile, detailing his AI specialization and ventures.
+Integrated Minh Duy's latest profile, detailing his focus on UAV threat quantification using SORA, his entrepreneurial venture Lowkie, and his relocation to HCMC.
