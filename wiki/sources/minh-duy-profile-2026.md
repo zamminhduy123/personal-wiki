@@ -1,42 +1,40 @@
 --- 
 type: source
-date: 2026-04-14
+date: 2026-05-20
 title: Minh Duy's current professional and personal profile, detailing his AI specialization and ventures.
-original_file: raw_sources/minh-duy-profile-2026.md
+original_file: raw_sources/minh-duy-profile-2026.pdf
 ---
 
 ## Summary
-Minh Duy is an AI Engineer and Research Engineer specializing in quantifying Unmanned Aerial Vehicle (UAV) threats using the SORA framework. He is a founder of Lowkie, a fitness-focused snack brand, and is actively pursuing opportunities in AI science and engineering. He is based in Ho Chi Minh City, Vietnam, and maintains a strong interest in the Vietnamese stock market and fitness.
+Minh Duy is an AI Engineer and Research Engineer specializing in quantifying threats posed by Unmanned Aerial Vehicles (UAVs) using the SORA (Specific Operations Risk Assessment) framework. He is actively building a career in AI, having recently completed his Master's degree in February 2026. Beyond his technical work, he is an entrepreneur, founding Lowkie, a fitness-focused snack brand, and maintains a keen interest in the Vietnamese stock market.
 
 ## Key Facts
 - **Aliases:** Rzy.
-- **Current Role:** AI Engineer / Research Engineer.
-- **Specialization:** Quantifying UAV threats using ML/DL within the SORA framework.
+- **Current Location:** Ho Chi Minh City, Vietnam.
 - **Education:** Master’s degree (graduated Feb 2026) from Soonchunhyang University.
-- **Venture:** Founder of Lowkie (fitness-focused snack).
-- **Interests:** Vietnamese stock market, fitness, and bodybuilding.
-- **Timeline:** Relocated to Ho Chi Minh City in April 2026.
+- **Primary Roles:** AI Engineer / Research Engineer.
+- **Specialization:** Quantifying UAV threats using ML/DL within the SORA framework.
+- **Venture:** Founder of Lowkie (fitness-focused snack). Lowkie aims to provide protein-enriched cookies for fitness enthusiasts.
+- **Interests:** Vietnamese stock market (monitoring energy, utility, and steel sectors like GAS, HPG, BWE, TDM), fitness, and bodybuilding.
+- **Timeline:** Relocated to HCMC in April 2026.
+- **Technical Focus:** Coding, Computer Science, and building practical automation tools/bots.
 
 ## Entities Mentioned
 - [Minh Duy (Rzy)](wiki/entities/minh-duy-rzy.md)
-- [Lowkie](wiki/entities/lowkie.md)
 - [Ho Chi Minh City](wiki/entities/ho-chi-minh-city.md)
 - [Vietnam](wiki/entities/vietnam.md)
 - [Soonchunhyang University](wiki/entities/soonchunhyang-university.md)
-- [SORA framework](wiki/concepts/sora-framework.md)
-- [UAVs](wiki/concepts/uavs.md)
-- [AI Engineer](wiki/concepts/ai-engineer.md)
-- [AI Scientist](wiki/concepts/ai-scientist.md)
-- [Machine Learning](wiki/concepts/machine-learning.md)
-- [Deep Learning](wiki/concepts/deep-learning.md)
-- [Vietnamese stock market](wiki/concepts/vietnamese-stock-market.md)
-- [Entrepreneurship](wiki/concepts/entrepreneurship.md)
+- [Lowkie](wiki/entities/lowkie.md)
+- [Zalo](wiki/entities/zalo.md)
+- [CT Group](wiki/entities/ct-group.md)
+- [VNG Corporation](wiki/entities/vng-corporation.md)
 
 ## Concepts Mentioned
+- [Deep Learning](wiki/concepts/deep-learning.md)
+- [Machine Learning](wiki/concepts/machine-learning.md)
 - [SORA framework](wiki/concepts/sora-framework.md)
 - [UAVs](wiki/concepts/uavs.md)
 - [AI Engineer](wiki/concepts/ai-engineer.md)
-- [AI Scientist](wiki/concepts/ai-scientist.md)
-- [Machine Learning](wiki/concepts/machine-learning.md)
-- [Deep Learning](wiki/concepts/deep-learning.md)
 - [Entrepreneurship](wiki/concepts/entrepreneurship.md)
+- [Fitness](wiki/concepts/fitness.md)
+- [Vietnamese stock market](wiki/concepts/vietnamese-stock-market.md)
