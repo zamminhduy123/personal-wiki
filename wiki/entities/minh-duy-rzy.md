@@ -4,19 +4,26 @@ entity_type: person
 ---
 
 ## Overview
-Minh Duy (also known as Rzy) is a highly specialized AI professional and researcher. He focuses on applying advanced Machine Learning and Deep Learning techniques to quantify operational risks posed by Unmanned Aerial Vehicles (UAVs) using the SORA framework. He is an active entrepreneur and founder of Lowkie, a fitness-focused snack brand. He is currently based in Ho Chi Minh City, Vietnam.
+Minh Duy (also known as Rzy) is an AI Engineer and Research Engineer specializing in applying Machine Learning and Deep Learning to quantify threats posed by Unmanned Aerial Vehicles (UAVs). He is an active entrepreneur and professional who has relocated to Ho Chi Minh City, Vietnam, and maintains a strong interest in the Vietnamese stock market. He is actively seeking AI Scientist/Engineer roles.
 
 ## Key Facts
 - **Aliases:** Rzy.
 - **Current Location:** Ho Chi Minh City, Vietnam.
-- **Previous Location:** Cheonan, South Korea.
-- **Education:** Master’s degree in a technical field (graduated February 2026) from Soonchunhyang University.
-- **Professional Roles:** AI Engineer / Research Engineer.
-- **Specialization:** Quantifying UAV threats using ML/DL within the SORA framework.
-- **Technical Focus:** Coding, Computer Science, and building practical automation tools/bots.
-- **Venture:** Founder of Lowkie (protein-enriched cookies).
-- **Interests:** Fitness, bodybuilding, and monitoring the Vietnamese stock market (GAS, HPG, BWE, TDM).
-- **Timeline:** Relocated to HCMC in April 2026.
+- **Education:** Master's degree from Soonchunhyang University (graduated Feb 2026).
+- **Specialization:** UAV threat quantification using SORA framework and ML/DL.
+- **Venture:** Founder of Lowkie, a fitness-focused snack brand.
+- **Interests:** Monitoring the Vietnamese stock market (energy, utility, steel sectors).
+- **Career Status:** Actively interviewing for AI Scientist/Engineer roles.
 
 ## Sources
-- [Minh Duy's current professional and personal profile, detailing his AI specialization and ventures.](wiki/sources/new-minh-duy-profile-2026.md)
+- [Minh Duy's current professional and personal profile, detailing his AI specialization and ventures.](wiki/sources/minh-duy-profile-2026.md)
+- [Profile of Nguyen Thanh Minh Duy.](wiki/sources/bio.md)
+- [CV of Nguyen Thanh Minh Duy, detailing deep learning research and software engineering experience.](wiki/sources/cv-duynguyen.md)
+
+## Concepts
+- [Deep Learning](wiki/concepts/deep-learning.md)
+- [Unmanned Aerial Vehicles (UAVs)](wiki/concepts/uavs.md)
+- [SORA (Specific Operations Risk Assessment)](wiki/concepts/sora-framework.md)
+- [Machine Learning](wiki/concepts/machine-learning.md)
+- [Vietnamese Stock Market](wiki/concepts/vietnamese-stock-market.md)
+- [Entrepreneurship](wiki/concepts/entrepreneurship.md)
