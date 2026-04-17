@@ -6,6 +6,9 @@ New entries are prepended at the top.
 ---
 
 ## [2026-04-14] ingest | Minh Duy's current professional and personal profile, detailing his AI specialization and ventures.
+Minh Duy, also known as Rzy, is an AI Engineer specializing in quantifying UAV threats using the SORA framework. This update details his career milestones, entrepreneurial venture (Lowkie), and current life in Ho Chi Minh City.
+
+## [2026-04-14] ingest | Minh Duy's current professional and personal profile, detailing his AI specialization and ventures.
 Updated Minh Duy's entity page, created concept pages for UAVs and SORA framework, and updated the index with the new source document.
 
 ## [2026-04-14] ingest | Minh Duy's current professional and personal profile, detailing his AI specialization and ventures.
