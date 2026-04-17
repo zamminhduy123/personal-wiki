@@ -6,16 +6,17 @@ original_file: raw_sources/minh-duy-profile-2026.md
 ---
 
 ## Summary
-Minh Duy is an AI Engineer and Research Engineer specializing in quantifying threats posed by Unmanned Aerial Vehicles (UAVs) using Machine Learning and Deep Learning within the SORA framework. He is an active entrepreneur, founding Lowkie, a fitness-focused snack initiative. He is currently based in Ho Chi Minh City, Vietnam, and actively pursuing AI Scientist/Engineer roles while maintaining interests in fitness and the Vietnamese stock market.
+Minh Duy, also known as Rzy, is an AI Engineer and Research Engineer based in Ho Chi Minh City, Vietnam. He specializes in applying Machine Learning and Deep Learning to quantify threats posed by Unmanned Aerial Vehicles (UAVs) using the SORA framework. His professional life is marked by active job searching in AI roles, while his personal life includes founding Lowkie, a fitness-focused snack venture, and monitoring the Vietnamese stock market.
 
 ## Key Facts
-- **Aliases:** Rzy.
-- **Specialization:** UAV threat quantification using ML/DL and SORA.
-- **Education:** Master's degree from Soonchunhyang University (graduated Feb 2026).
-- **Current Location:** Ho Chi Minh City, Vietnam.
-- **Career Focus:** Actively seeking AI Scientist/Engineer roles.
-- **Venture:** Founder of Lowkie, a fitness-focused snack initiative.
-- **Interests:** Fitness, bodybuilding, and monitoring the Vietnamese stock market.
+- **Name/Aliases:** Minh Duy (Rzy).
+- **Location:** Ho Chi Minh City, Vietnam (relocated from Cheonan, South Korea).
+- **Education:** Master’s degree (graduated February 2026) from Soonchunhyang University.
+- **Primary Roles:** AI Engineer / Research Engineer.
+- **Specialization:** Quantifying UAV threats using ML/DL within the SORA framework.
+- **Venture:** Founder of Lowkie, a protein-enriched cookie initiative.
+- **Interests:** Fitness, bodybuilding, and monitoring the Vietnamese stock market (energy, utility, steel sectors).
+- **Timeline:** Relocated to HCMC in April 2026; completed Master's degree in Feb 2026.
 
 ## Entities Mentioned
 - [Minh Duy (Rzy)](wiki/entities/minh-duy-rzy.md)
@@ -24,13 +25,15 @@ Minh Duy is an AI Engineer and Research Engineer specializing in quantifying thr
 - [Soonchunhyang University](wiki/entities/soonchunhyang-university.md)
 - [Zalo](wiki/entities/zalo.md)
 - [CT Group](wiki/entities/ct-group.md)
+- [Lowkie](wiki/entities/lowkie.md)
 
 ## Concepts Mentioned
+- [AI Engineer](wiki/concepts/ai-engineer.md)
+- [Research Engineer](wiki/concepts/research-engineer.md)
 - [Deep Learning](wiki/concepts/deep-learning.md)
 - [Unmanned Aerial Vehicles (UAVs)](wiki/concepts/uavs.md)
-- [SORA framework](wiki/concepts/sora-framework.md)
+- [SORA (Specific Operations Risk Assessment)](wiki/concepts/sora-framework.md)
 - [Machine Learning](wiki/concepts/machine-learning.md)
-- [AI Engineer](wiki/concepts/ai-engineer.md)
 - [Entrepreneurship](wiki/concepts/entrepreneurship.md)
 - [Fitness](wiki/concepts/fitness.md)
-- [Vietnamese stock market](wiki/concepts/vietnamese-stock-market.md)
+- [Vietnamese Stock Market](wiki/concepts/vietnamese-stock-market.md)

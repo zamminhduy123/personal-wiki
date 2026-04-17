@@ -3,10 +3,10 @@ type: concept
 ---
 
 ## Definition
-A professional role that bridges theoretical research and practical software development. Research Engineers are responsible for taking cutting-edge academic findings or experimental models and transforming them into robust, deployable, and scalable industrial products or systems. This role requires deep knowledge of both scientific methodology and production-grade engineering practices.
+A professional role focused on applying advanced scientific principles, often involving deep theoretical knowledge, to solve complex, real-world engineering problems. This role bridges the gap between pure research and commercial product development.
 
 ## How It Applies Here
-Minh Duy's specialization as a Research Engineer involves applying advanced ML/DL techniques (like those used for UAV threat quantification) from a research context into practical, deployable systems. This role emphasizes the full lifecycle, from hypothesis generation to production deployment.
+Minh Duy's specialization in quantifying UAV threats using ML/DL falls under this concept. It requires both advanced theoretical knowledge (AI research) and practical implementation (engineering solutions) to build functional risk assessment tools.
 
 ## Sources
 - [Minh Duy's current professional and personal profile, detailing his AI specialization and ventures.](wiki/sources/minh-duy-profile-2026.md)

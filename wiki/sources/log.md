@@ -1,2 +1,2 @@
 ## [2026-04-14] ingest | Minh Duy's current professional and personal profile, detailing his AI specialization and ventures.
-Ingested Minh Duy's updated profile, solidifying his role as an AI Engineer specializing in UAV threat quantification and detailing his entrepreneurial venture, Lowkie.
+Ingested Minh Duy's updated profile. Updated entities/minh-duy-rzy.md, concepts/research-engineer.md, and sources/minh-duy-profile-2026.md.
