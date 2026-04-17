@@ -1,6 +1,2 @@
 ## [2026-04-14] ingest | Minh Duy's current professional and personal profile, detailing his AI specialization and ventures.
-Ingested Minh Duy's comprehensive profile, updating his entity page, source pages, and concept definitions (Fitness, Vietnamese Stock Market).
-## [2026-04-14] ingest | Minh Duy's current professional and personal profile, detailing his AI specialization and ventures.
-Ingested Minh Duy's comprehensive profile, updating his entity page, source pages, and concept definitions (Fitness, Vietnamese Stock Market).
-## [2026-04-14] ingest | Minh Duy's current professional and personal profile, detailing his AI specialization and ventures.
-Ingested Minh Duy's comprehensive profile, updating his entity page, source pages, and concept definitions (Fitness, Vietnamese Stock Market).
+Ingested Minh Duy's updated profile, solidifying his specialization in UAV threat quantification and detailing his entrepreneurial and personal interests. Updated sources/new-minh-duy-profile.md, entities/minh-duy-rzy.md, entities/nguyen-thanh-minh-duy.md, and multiple concept pages.
