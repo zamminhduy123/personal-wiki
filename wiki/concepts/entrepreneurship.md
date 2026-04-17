@@ -1,12 +1,12 @@
---- 
+---
 type: concept
 ---
 
 ## Definition
-The process of creating, developing, and managing a new business venture, often involving identifying market needs and creating innovative solutions.
+The process of designing, launching, and managing a new business venture. It involves identifying market needs, developing a product, and executing a business plan.
 
 ## How It Applies Here
-Minh Duy is actively engaged in entrepreneurship through the founding of Lowkie, a fitness-focused snack brand. This demonstrates his ability to apply business acumen alongside his technical skills.
+Minh Duy demonstrates practical entrepreneurial activity through the founding of Lowkie, a fitness-focused snack brand, showcasing his ability to transition from technical research to product development and market engagement.
 
 ## Sources
-- [Minh Duy's current professional and personal profile, detailing his AI specialization and ventures.](wiki/sources/new-minh-duy-profile-2026.md)
+- [wiki/sources/minh-duy-profile-2026.md](wiki/sources/minh-duy-profile-2026.md)
