@@ -3,12 +3,10 @@ type: concept
 ---
 
 ## Definition
-The financial market of Vietnam, which Minh Duy actively monitors for investment opportunities.
+The financial market of Vietnam, where investors monitor and trade various sectors. It is a key area of interest for Minh Duy.
 
 ## How It Applies Here
-Minh Duy maintains a keen interest in this market, specifically tracking the energy, utility, and steel sectors (e.g., GAS, HPG, BWE, TDM).
+Minh Duy actively monitors this market, specifically focusing on the energy, utility, and steel sectors (e.g., GAS, HPG, BWE, TDM). This interest represents a personal domain of focus outside his core AI research.
 
 ## Sources
-- [Minh Duy Profile Summary](wiki/sources/new-minh-duy-profile.md)
-- [Minh Duy's Professional and Personal Profile (2026)](wiki/sources/new-minh-duy-profile.md)
-- [Minh Duy (Rzy)](wiki/entities/minh-duy-rzy.md)
+- [Minh Duy's Professional and Personal Profile (2026)](wiki/sources/minh-duy-profile-2026.md)
