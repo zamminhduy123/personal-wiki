@@ -3,10 +3,10 @@ type: concept
 ---
 
 ## Definition
-The financial market of Vietnam, which Minh Duy actively monitors. It is a key area of personal interest and investment focus.
+The Vietnamese stock market is the financial exchange where shares of Vietnamese companies are traded. It is a key area of interest for Minh Duy, who actively monitors specific sectors.
 
 ## How It Applies Here
-Minh Duy monitors specific sectors within this market, including energy, utility, and steel, demonstrating a keen interest in Vietnamese macroeconomics and finance.
+Minh Duy maintains an active interest in monitoring the Vietnamese stock market, focusing particularly on the energy, utility, and steel sectors (e.g., GAS, HPG, BWE, TDM). This interest reflects a broader engagement with Vietnam's economic landscape.
 
 ## Sources
 - [Minh Duy's current professional and personal profile, detailing his AI specialization and ventures.](wiki/sources/minh-duy-profile-2026.md)
