@@ -1,2 +1,2 @@
-## [2026-05-20] ingest | Minh Duy's current professional and personal profile, detailing his AI specialization and ventures.
-Updated sources/minh-duy-profile-2026.md, entities/minh-duy-rzy.md, overview.md, and multiple concept pages to reflect his current status and interests.
+## [2026-04-14] ingest | Minh Duy's current professional and personal profile, detailing his AI specialization and ventures.
+Updated sources/minh-duy-profile-2026.md, entities/minh-duy-rzy.md, concepts/sora-framework.md, concepts/vietnamese-stock-market.md, concepts/fitness.md, and updated index.md.
