@@ -5,7 +5,7 @@
 | wiki/log.md | Chronological operation log. |
 | wiki/overview.md | Evolving synthesis of all wiki themes. |
 | wiki/sources/cv-duynguyen.md | CV of Nguyen Thanh Minh Duy, detailing deep learning research and software engineering experience. |
-| wiki/sources/new-minh-duy-profile.md | Minh Duy's current professional and personal profile, detailing his AI specialization and ventures. |
+| wiki/sources/new-minh-duy-profile-2026.md | Minh Duy's current professional and personal profile, detailing his AI specialization and ventures. |
 | wiki/sources/minh-duy-profile-2026.md | Minh Duy's current professional and personal profile, detailing his AI specialization and ventures. |
 | wiki/sources/bio.md | Profile of Nguyen Thanh Minh Duy. |
 | wiki/entities/nguyen-thanh-minh-duy.md | Profile of Nguyen Thanh Minh Duy, a specialist in deep learning and software engineering. |
