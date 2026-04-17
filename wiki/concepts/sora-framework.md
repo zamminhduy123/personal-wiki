@@ -3,10 +3,10 @@ type: concept
 ---
 
 ## Definition
-The Specific Operations Risk Assessment (SORA) framework is a structured methodology used to assess operational risks, particularly those involving Unmanned Aerial Vehicles (UAVs). It provides a structured approach for quantifying potential threats and mitigating risks in complex operational environments.
+SORA (Specific Operations Risk Assessment) is a structured methodology used to assess operational risks, particularly those involving Unmanned Aerial Vehicles (UAVs). It is central to Minh Duy's research specialization.
 
 ## How It Applies Here
-Minh Duy utilizes the SORA framework as the core methodology for his research, applying Machine Learning and Deep Learning techniques to quantify and assess the threats posed by UAVs. This positions his work at the intersection of AI, risk management, and aerospace technology.
+Minh Duy applies the SORA framework in his research to quantify threats posed by UAVs, integrating Machine Learning and Deep Learning techniques into the risk assessment process.
 
 ## Sources
-- [Minh Duy's current professional and personal profile, detailing his AI specialization and ventures.](wiki/sources/minh-duy-profile-2026.md)
+- [Minh Duy's current professional and personal profile, detailing his AI specialization and ventures.](wiki/sources/new-minh-duy-profile-2026.md)

@@ -1,2 +1,2 @@
 ## [2026-04-14] ingest | Minh Duy's current professional and personal profile, detailing his AI specialization and ventures.
-Updated Minh Duy's entity page, sources/new-minh-duy-profile-2026.md, and updated the index and overview.
+Updated Minh Duy's entity profile, created new concept pages for SORA and Vietnamese Stock Market, and updated the overall wiki overview.

@@ -4,17 +4,16 @@ entity_type: person
 ---
 
 ## Overview
-Minh Duy (also known as Rzy) is an AI Engineer and Research Engineer specializing in applying Machine Learning and Deep Learning to quantify threats from Unmanned Aerial Vehicles (UAVs) using the SORA framework. He is an entrepreneur and founder of Lowkie, a fitness-focused snack brand. He is currently based in Ho Chi Minh City, Vietnam.
+Minh Duy (also known as Rzy) is an AI Engineer and Research Engineer specializing in applying Machine Learning and Deep Learning to quantify threats from Unmanned Aerial Vehicles (UAVs) using the SORA framework. He is an entrepreneur and founder of Lowkie, a fitness-focused snack brand. He is actively pursuing roles as an AI Scientist or AI Engineer.
 
 ## Key Facts
-- **Professional Focus:** AI Engineer/Research Engineer specializing in UAV threat quantification using ML/DL and SORA.
-- **Education:** Master's degree completed (February 2026) from Soonchunhyang University.
-- **Venture:** Founder of Lowkie, a protein-enriched cookie brand ("Ăn ngon, tập khỏe").
 - **Current Location:** Ho Chi Minh City, Vietnam.
+- **Education:** Master's degree (graduated February 2026) from Soonchunhyang University.
+- **Specialization:** Quantifying UAV threats using ML/DL and SORA.
+- **Venture:** Founder of Lowkie (protein-enriched cookies).
 - **Interests:** Monitoring the Vietnamese stock market (energy, utility, steel sectors).
-- **Technical Skills:** Proficient in coding, computer science, and building practical automation tools or bots.
-- **Timeline:** Relocated to HCMC (April 2026); previously lived in Cheonan, South Korea.
-- **Academic Focus:** Deep learning, computer science, and practical ML applications.
+- **Timeline:** Relocated to HCMC in April 2026; previously in Cheonan, South Korea.
+- **Technical Skills:** Proficient in coding, computer science, and building practical automation tools.
 
 ## Sources
 - [Minh Duy's current professional and personal profile, detailing his AI specialization and ventures.](wiki/sources/new-minh-duy-profile-2026.md)
