@@ -3,12 +3,10 @@ type: concept
 ---
 
 ## Definition
-An AI Engineer is a professional who designs, builds, and deploys artificial intelligence systems. This role requires a strong blend of theoretical computer science knowledge and practical software engineering skills.
+A professional role focused on designing, implementing, and deploying practical AI solutions. This role bridges theoretical research with robust, scalable software engineering practices.
 
 ## How It Applies Here
-This is Minh Duy's primary professional role. His background involves not only deep theoretical research (Deep Learning) but also building practical automation tools and working in product development, fitting the definition of an AI Engineer.
+Minh Duy is targeting this role, leveraging his background in coding, computer science, and building automation tools to deploy ML/DL solutions in real-world scenarios like UAV threat quantification.
 
 ## Sources
 - [Minh Duy's current professional and personal profile, detailing his AI specialization and ventures.](wiki/sources/new-minh-duy-profile-2026.md)
-- [Minh Duy (Rzy)](wiki/entities/minh-duy-rzy.md)
-- [Nguyen Thanh Minh Duy](wiki/entities/nguyen-thanh-minh-duy.md)

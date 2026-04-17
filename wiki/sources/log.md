@@ -1,2 +1,2 @@
 ## [2026-04-14] ingest | Minh Duy's current professional and personal profile, detailing his AI specialization and ventures.
-Updated the overview, created/updated entities/minh-duy-rzy.md, and updated sources/new-minh-duy-profile-2026.md with detailed information on his AI specialization, entrepreneurial ventures, and personal life.
+Updated sources/new-minh-duy-profile-2026.md, entities/minh-duy-rzy.md, entities/soonchunhyang-university.md, entities/lowkie.md, concepts/ai-scientist.md, concepts/ai-engineer.md, concepts/overview.md, and updated index.md.

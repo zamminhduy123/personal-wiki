@@ -3,12 +3,10 @@ type: concept
 ---
 
 ## Definition
-An AI Scientist is a research-focused role dedicated to advancing the theoretical boundaries of artificial intelligence. This role typically involves developing novel algorithms and conducting deep, fundamental research.
+A professional role focused on theoretical AI research and development. This role requires deep knowledge of advanced algorithms, mathematical modeling, and the ability to push the boundaries of current AI capabilities.
 
 ## How It Applies Here
-This is a career path Minh Duy is actively exploring. It represents a shift toward fundamental research, distinct from the deployment focus of an AI Engineer, though the two roles often overlap.
+Minh Duy is actively seeking roles in this field, indicating a focus on theoretical research and advanced problem-solving in AI, particularly concerning threat modeling and ML applications.
 
 ## Sources
 - [Minh Duy's current professional and personal profile, detailing his AI specialization and ventures.](wiki/sources/new-minh-duy-profile-2026.md)
-- [Minh Duy (Rzy)](wiki/entities/minh-duy-rzy.md)
-- [Nguyen Thanh Minh Duy](wiki/entities/nguyen-thanh-minh-duy.md)

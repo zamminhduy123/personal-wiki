@@ -15,6 +15,8 @@ This profile provides a comprehensive update on Minh Duy's professional life as 
 - **Career Goal:** Seeking AI Scientist/Engineer roles.
 - **Timeline:** Relocated to HCMC in April 2026. Completed Master's degree in February 2026.
 - **Technical Focus:** Coding, Computer Science, and building practical automation tools or bots.
+- **Education:** Master’s degree completed in February 2026 from Soonchunhyang University.
+- **Previous Location:** Cheonan, South Korea.
 
 ## Entities Mentioned
 - [Minh Duy (Rzy)](wiki/entities/minh-duy-rzy.md)
@@ -24,6 +26,7 @@ This profile provides a comprehensive update on Minh Duy's professional life as 
 - [Vietnam](wiki/entities/vietnam.md)
 - [Zalo](wiki/entities/zalo.md)
 - [CT Group](wiki/entities/ct-group.md)
+- [Soonchunhyang University](wiki/entities/soonchunhyang-university.md)
 
 ## Concepts Mentioned
 - [Deep Learning](wiki/concepts/deep-learning.md)
@@ -31,6 +34,7 @@ This profile provides a comprehensive update on Minh Duy's professional life as 
 - [SORA (Specific Operations Risk Assessment)](wiki/concepts/sora-framework.md)
 - [UAVs](wiki/concepts/uavs.md)
 - [AI Engineer](wiki/concepts/ai-engineer.md)
+- [AI Scientist](wiki/concepts/ai-scientist.md)
 - [Entrepreneurship](wiki/concepts/entrepreneurship.md)
 - [Fitness](wiki/concepts/fitness.md)
 - [Vietnamese Stock Market](wiki/concepts/vietnamese-stock-market.md)
