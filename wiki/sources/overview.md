@@ -1,7 +1,1 @@
-## Overview of Research and Professional Focus
-
-The central theme of the current research profile revolves around Minh Duy, an AI Engineer and entrepreneur. His professional focus is highly specialized: applying advanced Machine Learning and Deep Learning techniques to quantify operational risks posed by Unmanned Aerial Vehicles (UAVs). This work is structured within the Specific Operations Risk Assessment (SORA) framework. 
-
-His background is academic, having completed his Master's degree in 2026, and professional, involving experience at major tech companies like Zalo. Concurrently, he is pursuing entrepreneurial ventures, notably founding Lowkie, a fitness-focused snack brand. 
-
-Geographically, his life has recently shifted to Ho Chi Minh City, Vietnam, where he monitors the local Vietnamese stock market. The profile demonstrates a strong blend of technical expertise (AI/ML), practical application (UAV threat modeling), and commercial acumen (entrepreneurship/fitness).
+The core narrative revolves around Minh Duy, a highly skilled AI Engineer and Research Engineer. He is specializing in advanced applications of Machine Learning and Deep Learning, specifically quantifying threats from Unmanned Aerial Vehicles (UAVs) using the SORA framework. Professionally, he is focused on securing AI Scientist/Engineer roles. Personally, he is an active entrepreneur (Lowkie) and maintains a strong interest in fitness and the Vietnamese stock market. His recent relocation to Ho Chi Minh City marks a new chapter in his career and personal life, integrating advanced technology with commercial and financial interests.
