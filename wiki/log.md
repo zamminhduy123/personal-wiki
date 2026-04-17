@@ -6,6 +6,9 @@ New entries are prepended at the top.
 ---
 
 ## [2026-04-14] ingest | Minh Duy's current professional and personal profile, detailing his AI specialization and ventures.
+Ingested a detailed profile of Minh Duy, covering his professional specialization in quantifying UAV threats using ML/DL within the SORA framework. Updated or created multiple files across sources, entities, and concepts, including the dedicated source page, updated entity pages for Minh Duy (Rzy) and Nguyen Thanh Minh Duy, and concept pages for SORA, UAVs, AI Engineer, AI Scientist, Fitness, and Vietnamese Stock Market.
+
+## [2026-04-14] ingest | Minh Duy's current professional and personal profile, detailing his AI specialization and ventures.
 Ingested Minh Duy's detailed profile from 2026, updating his professional focus, entrepreneurial ventures (Lowkie), and personal interests (fitness, Vietnamese stock market). Created new concept pages for 'Research Engineer' and updated multiple entity and source pages to reflect his current status.
 
 ## [2026-04-14] ingest | Minh Duy's current professional and personal profile, detailing his AI specialization and ventures.
