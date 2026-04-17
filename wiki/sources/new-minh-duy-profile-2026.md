@@ -6,14 +6,15 @@ original_file: raw_sources/minh-duy-profile-2026.txt
 ---
 
 ## Summary
-This profile provides a comprehensive update on Minh Duy's professional life as of 2026. It confirms his specialization in using ML/DL for quantifying UAV threats within the SORA framework. It also details his entrepreneurial activities (Lowkie) and his personal interests, including fitness and monitoring the Vietnamese stock market.
+This profile provides a comprehensive update on Minh Duy's professional life as of 2026. It confirms his specialization in using ML/DL for quantifying UAV threats within the SORA framework. It also details his entrepreneurial activities (Lowkie) and his personal interests, including fitness and monitoring the Vietnamese stock market. The document also provides a detailed timeline of his recent professional and personal milestones.
 
 ## Key Facts
 - **Specialization:** Quantifying UAV threats using ML/DL within the SORA framework.
-- **Venture:** Founder of Lowkie (fitness-focused snack initiative).
-- **Interests:** Fitness, bodybuilding, monitoring the Vietnamese stock market.
+- **Venture:** Founder of Lowkie (fitness-focused snack initiative). The brand operates under the concept of "Ăn ngon, tập khỏe" (Eat well, train hard).
+- **Interests:** Fitness, bodybuilding, monitoring the Vietnamese stock market (e.g., energy, utility, steel sectors).
 - **Career Goal:** Seeking AI Scientist/Engineer roles.
-- **Timeline:** Relocated to HCMC in April 2026.
+- **Timeline:** Relocated to HCMC in April 2026. Completed Master's degree in February 2026.
+- **Technical Focus:** Coding, Computer Science, and building practical automation tools or bots.
 
 ## Entities Mentioned
 - [Minh Duy (Rzy)](wiki/entities/minh-duy-rzy.md)
