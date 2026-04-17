@@ -5,6 +5,9 @@ New entries are prepended at the top.
 
 ---
 
+## [2026-04-15] ingest | Minh Duy's current professional and personal profile, detailing his AI specialization and ventures.
+Updated the entity page for Minh Duy (Rzy) and the wiki overview to incorporate his current professional focus on UAV threat quantification and his role as a founder of Lowkie.
+
 ## [2026-04-15] ingest | Minh Duy's detailed professional and personal profile
 Integrated Minh Duy's detailed profile, updating his entity page and the source document. This expanded information solidified his professional focus on AI/ML for UAV threat quantification and detailed his personal ventures (Lowkie) and financial interests (Vietnamese stock market).
 
