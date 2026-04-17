@@ -1,2 +1,2 @@
 ## [2026-04-14] ingest | Minh Duy's current professional and personal profile, detailing his AI specialization and ventures.
-Updated Minh Duy's entity page, updated the source page, and enriched the overview with his current professional and personal details.
+Updated Minh Duy's entity page, sources/new-minh-duy-profile-2026.md, and overview.md with his latest professional details, including his move to HCMC and his focus on UAV threat quantification.
