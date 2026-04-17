@@ -1,2 +1,2 @@
-## [2026-05-20] ingest | Minh Duy's current professional and personal profile, detailing his AI specialization and ventures.
-Updated sources/new-minh-duy-profile-2026.md, and significantly updated entities/minh-duy-rzy.md, entities/nguyen-thanh-minh-duy.md, and wiki/overview.md with detailed personal and professional milestones.
+## [2026-04-14] ingest | Minh Duy's current professional and personal profile, detailing his AI specialization and ventures.
+Updated sources/new-minh-duy-profile-2026.md, entities/minh-duy-rzy.md, entities/lowkie.md, entities/ho-chi-minh-city.md, and updated the wiki/overview.md and wiki/index.md.
