@@ -1,4 +1,3 @@
---- 
 | File | Summary |
 |---|---| |
 | wiki/SCHEMA.md | Librarian operating manual — conventions and workflows. |
