@@ -1,2 +1,2 @@
 ## [2026-05-15] ingest | Minh Duy's current professional and personal profile, detailing his AI specialization and ventures.
-Ingested Minh Duy's updated profile, detailing his specialization in UAV risk assessment, his role as an entrepreneur (Lowkie), and his life milestones in HCMC.
+Updated sources/new-minh-duy-profile-2026.md, entities/minh-duy-rzy.md, and overview.md with detailed personal and professional milestones.
