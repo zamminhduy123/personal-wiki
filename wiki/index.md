@@ -1,4 +1,3 @@
---- 
 | File | Summary |
 |---|---| |
 | wiki/sources/cv-duynguyen.md | CV of Nguyen Thanh Minh Duy, detailing deep learning research and software engineering experience. |
