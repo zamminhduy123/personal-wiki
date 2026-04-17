@@ -10,3 +10,4 @@ This is Minh Duy's primary professional role. His background involves not only d
 
 ## Sources
 - [Minh Duy Profile Summary](wiki/sources/new-minh-duy-profile.md)
+- [Minh Duy's Professional and Personal Profile (2026)](wiki/sources/minh-duy-profile-2026.md)

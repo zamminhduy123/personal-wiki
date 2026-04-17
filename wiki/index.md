@@ -1,3 +1,4 @@
+```markdown
 | File | Summary |
 |---|---| 
 | wiki/SCHEMA.md | Librarian operating manual — conventions and workflows. |
@@ -37,3 +38,4 @@
 | wiki/concepts/entrepreneurship.md | The process of creating and managing a new business venture. |
 | wiki/concepts/fitness.md | State of being physically healthy, related to bodybuilding and nutrition. |
 | wiki/concepts/vietnamese-stock-market.md | Financial market of Vietnam, monitored by Minh Duy. |
+```
