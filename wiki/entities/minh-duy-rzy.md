@@ -1,6 +1,6 @@
----
+--- 
 type: entity
-enity_type: person
+entity_type: person
 ---
 
 ## Overview

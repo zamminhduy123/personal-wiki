@@ -9,4 +9,4 @@ Machine Learning (ML) is a subset of Artificial Intelligence that enables system
 ML is the core methodology used by Minh Duy in his research, specifically applying it to quantify threats for Unmanned Aerial Vehicles (UAVs) within the SORA framework. It is also fundamental to the development of practical automation tools and bots.
 
 ## Sources
-- [Minh Duy Profile Summary](wiki/sources/new-minh-duy-profile.md)
+- [Minh Duy's current professional and personal profile, detailing his AI specialization and ventures.](wiki/sources/minh-duy-profile-2026.md)
