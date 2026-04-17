@@ -14,8 +14,7 @@ This profile details Minh Duy's current professional status, academic background
 - **Career Status:** Actively interviewing for AI Scientist/Engineer roles (early 2026).
 - **Venture:** Founder of Lowkie, a protein-enriched cookie brand ("Ăn ngon, tập khỏe").
 - **Interests:** Monitoring the Vietnamese stock market (energy, utility, steel sectors).
-- **Timeline:** Relocated to Ho Chi Minh City in April 2026.
-- **Background:** Previously lived in Cheonan, South Korea.
+- **Timeline:** Relocated to Ho Chi Minh City in April 2026; previously lived in Cheonan, South Korea.
 
 ## Entities Mentioned
 - [Minh Duy (Rzy)](wiki/entities/minh-duy-rzy.md)
