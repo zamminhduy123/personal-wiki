@@ -6,6 +6,9 @@ New entries are prepended at the top.
 ---
 
 ## [2026-05-15] ingest | Minh Duy's current professional and personal profile, detailing his AI specialization and ventures.
+Updated entities/minh-duy-rzy.md and sources/new-minh-duy-profile-2026.md with detailed information regarding his current life, technical focus, and entrepreneurial ventures.
+
+## [2026-05-15] ingest | Minh Duy's current professional and personal profile, detailing his AI specialization and ventures.
 Updated the source, entity, concept, and overview pages with details regarding Minh Duy's entrepreneurial activities, his specialization in the SORA framework, and his professional roles.
 
 ## [2026-05-15] ingest | Minh Duy's current professional and personal profile, detailing his AI specialization and ventures.
