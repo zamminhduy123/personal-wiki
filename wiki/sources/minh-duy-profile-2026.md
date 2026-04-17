@@ -6,16 +6,15 @@ original_file: raw_sources/minh-duy-profile-2026.md
 ---
 
 ## Summary
-Minh Duy, also known as Rzy, is an AI Engineer and Research Engineer based in Ho Chi Minh City, Vietnam. His expertise lies in applying Machine Learning and Deep Learning to quantify threats for Unmanned Aerial Vehicles (UAVs) within the SORA (Specific Operations Risk Assessment) framework. He is a recent graduate (Master's degree, Feb 2026) and is actively pursuing AI Scientist/Engineer roles. Beyond tech, he is a founder of Lowkie, a fitness-focused snack venture, and maintains a strong interest in the Vietnamese stock market.
+Minh Duy is an AI Engineer and Research Engineer based in Ho Chi Minh City, Vietnam. He specializes in applying Machine Learning and Deep Learning to quantify threats posed by Unmanned Aerial Vehicles (UAVs) using the SORA framework. Beyond his technical career, he is an entrepreneur, founding Lowkie, a fitness-focused snack brand. He maintains a strong interest in fitness and the Vietnamese stock market.
 
 ## Key Facts
 - **Name/Aliases:** Minh Duy (Rzy).
 - **Current Location:** Ho Chi Minh City, Vietnam.
-- **Education:** Master’s degree (graduated Feb 2026) from Soonchunhyang University.
-- **Primary Roles:** AI Engineer / Research Engineer.
-- **Specialization:** Using ML/DL to quantify UAV threats within the SORA framework.
-- **Venture:** Founder of Lowkie (protein-enriched cookies).
-- **Interests:** Vietnamese stock market (energy, utility, steel sectors).
+- **Education:** Master’s degree (graduated February 2026) from Soonchunhyang University.
+- **Professional Focus:** AI/Research Engineer specializing in UAV threat quantification using SORA.
+- **Venture:** Founder of Lowkie, a protein-enriched snack initiative.
+- **Interests:** Fitness, bodybuilding, and monitoring the Vietnamese stock market (energy, utility, steel sectors).
 - **Timeline:** Relocated to HCMC in April 2026; completed Master's degree in Feb 2026.
 
 ## Entities Mentioned
@@ -24,14 +23,13 @@ Minh Duy, also known as Rzy, is an AI Engineer and Research Engineer based in Ho
 - [Soonchunhyang University](wiki/entities/soonchunhyang-university.md)
 - [Lowkie](wiki/entities/lowkie.md)
 - [Vietnam](wiki/entities/vietnam.md)
-- [Zalo](wiki/entities/zalo.md)
-- [CT Group](wiki/entities/ct-group.md)
+- [SORA framework](wiki/concepts/sora-framework.md)
+- [UAVs](wiki/concepts/uavs.md)
+- [Vietnamese stock market](wiki/concepts/vietnamese-stock-market.md)
 
 ## Concepts Mentioned
 - [AI Engineer](wiki/concepts/ai-engineer.md)
+- [Research Engineer](wiki/concepts/research-engineer.md)
 - [Deep Learning](wiki/concepts/deep-learning.md)
-- [SORA Framework](wiki/concepts/sora-framework.md)
-- [UAVs](wiki/concepts/uavs.md)
 - [Machine Learning](wiki/concepts/machine-learning.md)
 - [Entrepreneurship](wiki/concepts/entrepreneurship.md)
-- [Vietnamese Stock Market](wiki/concepts/vietnamese-stock-market.md)
