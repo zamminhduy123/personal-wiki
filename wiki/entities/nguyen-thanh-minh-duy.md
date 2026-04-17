@@ -4,15 +4,29 @@ entity_type: person
 ---
 
 ## Overview
-Nguyen Thanh Minh Duy is a Graduate Research Assistant and former Software Engineer specializing in applying deep learning for anomaly detection in in-vehicle networks. He possesses a strong blend of production engineering skills, having worked at Zalo, and advanced research capabilities in areas like Few-Shot Learning, Open-Set Recognition, and Generative AI.
+Nguyen Thanh Minh Duy is a highly skilled AI Engineer and Research Engineer. He specializes in applying Machine Learning and Deep Learning to quantify threats posed by Unmanned Aerial Vehicles (UAVs) within the SORA (Specific Operations Risk Assessment) framework. He is an active entrepreneur and has established a presence in Ho Chi Minh City, Vietnam.
 
 ## Key Facts
-- **Specialization:** Deep learning for anomaly detection in in-vehicle networks.
-- **Experience:** Software Engineer at Zalo (VNG Corporation, 2022-2024). Graduate Research Assistant at Soonchunhyang University (2024-2026).
-- **Technical Skills:** PyTorch, PyTorch Geometric (PyG), Generative AI, Multi-modal ML (CLIP/SigLIP), Transformers, GNN, Python, React.js, FastAPI, Docker.
-- **Education:** Master of Science in Engineering (Soonchunhyang University); B.Sc. in Software Engineering (HCM VNU - University of Science).
-- **Achievements:** Optimized client-side message search architecture at Zalo, reducing search latency by 30%. Developed multi-modal AI retrieval systems.
+- **Aliases:** Minh Duy.
+- **Specialization:** Quantifying UAV threats using ML/DL within the SORA framework.
+- **Education:** Master's degree completed February 2026 from Soonchunhyang University.
+- **Current Location:** Ho Chi Minh City, Vietnam.
+- **Venture:** Founder of Lowkie, a fitness-focused snack initiative.
+- **Interests:** Fitness, bodybuilding, monitoring the Vietnamese stock market.
+- **Career Status:** Actively interviewing for AI Scientist/Engineer roles (as of early 2026).
+- **Technical Focus:** Coding, Computer Science, and building practical automation tools or bots.
 
 ## Sources
-- [CV_DUYNGUYEN.pdf](wiki/sources/cv-duynguyen.md)
-- [Minh Duy Profile Summary](wiki/sources/new-minh-duy-profile.md)
+- [Minh Duy's current professional and personal profile, detailing his AI specialization and ventures.](wiki/sources/minh-duy-profile-2026.md)
+- [Minh Duy's current professional and personal profile, detailing his AI specialization and ventures.](wiki/sources/new-minh-duy-profile.md)
+- [CV of Nguyen Thanh Minh Duy, detailing deep learning research and software engineering experience.](wiki/sources/cv-duynguyen.md)
+
+## Concepts
+- [Deep Learning](wiki/concepts/deep-learning.md)
+- [Machine Learning](wiki/concepts/machine-learning.md)
+- [SORA (Specific Operations Risk Assessment)](wiki/concepts/sora-framework.md)
+- [UAVs](wiki/concepts/uavs.md)
+- [AI Engineer](wiki/concepts/ai-engineer.md)
+- [Entrepreneurship](wiki/concepts/entrepreneurship.md)
+- [Fitness](wiki/concepts/fitness.md)
+- [Vietnamese Stock Market](wiki/concepts/vietnamese-stock-market.md)

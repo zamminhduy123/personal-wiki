@@ -1,2 +1,6 @@
 ## [2026-04-14] ingest | Minh Duy's current professional and personal profile, detailing his AI specialization and ventures.
-Updated sources/minh-duy-profile-2026.md, entities/minh-duy-rzy.md, entities/lowkie.md, entities/vietnamese-stock-market.md, concepts/sora-framework.md, and wiki/overview.md with recent life updates and new ventures.
+Ingested Minh Duy's comprehensive profile, updating his entity page, source pages, and concept definitions (Fitness, Vietnamese Stock Market).
+## [2026-04-14] ingest | Minh Duy's current professional and personal profile, detailing his AI specialization and ventures.
+Ingested Minh Duy's comprehensive profile, updating his entity page, source pages, and concept definitions (Fitness, Vietnamese Stock Market).
+## [2026-04-14] ingest | Minh Duy's current professional and personal profile, detailing his AI specialization and ventures.
+Ingested Minh Duy's comprehensive profile, updating his entity page, source pages, and concept definitions (Fitness, Vietnamese Stock Market).
