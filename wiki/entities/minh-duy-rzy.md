@@ -14,6 +14,7 @@ Minh Duy (also known as Rzy) is an AI Engineer and Research Engineer specializin
 - **Interests:** Monitoring the Vietnamese stock market (energy, utility, steel sectors).
 - **Timeline:** Relocated to HCMC in April 2026; previously in Cheonan, South Korea.
 - **Technical Skills:** Proficient in coding, computer science, and building practical automation tools.
+- **Domain Focus:** Highly focused on ML applications, explicitly not focused on Biology.
 
 ## Sources
-- [Minh Duy's current professional and personal profile, detailing his AI specialization and ventures.](wiki/sources/new-minh-duy-profile-2026.md)
+- [Minh Duy's current professional and personal profile, detailing his AI specialization and ventures.](wiki/sources/minh-duy-profile-2026.md)
