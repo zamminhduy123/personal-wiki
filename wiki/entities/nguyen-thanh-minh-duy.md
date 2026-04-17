@@ -1,6 +1,6 @@
 --- 
 type: entity
-enity_type: person
+entity_type: person
 ---
 
 ## Overview
@@ -10,6 +10,7 @@ Nguyen Thanh Minh Duy is a professional who has worked in various technical role
 - **Background:** Deep learning research and software engineering.
 - **Previous Experience:** Worked at Zalo, focusing on performance engineering and product development.
 - **Current Focus:** AI specialization, including quantifying UAV threats and founding Lowkie.
+- **Education:** Master’s degree from Soonchunhyang University (graduated February 2026).
 
 ## Sources
 - [Minh Duy's current professional and personal profile, detailing his AI specialization and ventures.](wiki/sources/new-minh-duy-profile-2026.md)

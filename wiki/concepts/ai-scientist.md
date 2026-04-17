@@ -9,6 +9,6 @@ An AI Scientist is a research-focused role dedicated to advancing the theoretica
 This is a career path Minh Duy is actively exploring. It represents a shift toward fundamental research, distinct from the deployment focus of an AI Engineer, though the two roles often overlap.
 
 ## Sources
-- [Minh Duy's current professional and personal profile, detailing his AI specialization and ventures.](wiki/sources/minh-duy-profile-2026.md)
+- [Minh Duy's current professional and personal profile, detailing his AI specialization and ventures.](wiki/sources/new-minh-duy-profile-2026.md)
 - [Minh Duy (Rzy)](wiki/entities/minh-duy-rzy.md)
 - [Nguyen Thanh Minh Duy](wiki/entities/nguyen-thanh-minh-duy.md)

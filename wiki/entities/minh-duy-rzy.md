@@ -1,6 +1,6 @@
 --- 
 type: entity
-enity_type: person
+entity_type: person
 ---
 
 ## Overview
@@ -14,6 +14,7 @@ Minh Duy, also known by the alias Rzy, is a specialized AI Engineer and research
 - **Interests:** Fitness, bodybuilding, and monitoring the Vietnamese stock market (e.g., energy, utility, steel sectors).
 - **Venture:** Founder of Lowkie, a protein-enriched snack brand.
 - **Technical Skills:** Proficient in coding, Computer Science, and building automation tools/bots.
+- **Previous Location:** Cheonan, South Korea.
 
 ## Sources
 - [Minh Duy's current professional and personal profile, detailing his AI specialization and ventures.](wiki/sources/new-minh-duy-profile-2026.md)
