@@ -1,2 +1,2 @@
-## [2026-05-28] ingest | Minh Duy's current professional and personal profile, detailing his AI specialization and ventures.
-Ingested Minh Duy's detailed profile, updating his entity page, concept definitions (especially Vietnamese stock market), and the overall wiki overview.
+## [2026-04-14] ingest | Minh Duy's current professional and personal profile, detailing his AI specialization and ventures.
+Updated Minh Duy's profile, detailing his specialization in UAV threat quantification using SORA, and documenting his entrepreneurial venture, Lowkie.

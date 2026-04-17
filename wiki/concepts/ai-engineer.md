@@ -3,10 +3,10 @@ type: concept
 ---
 
 ## Definition
-A professional role focused on designing, implementing, and deploying practical AI solutions. AI Engineers bridge the gap between theoretical AI research (AI Scientists) and production-ready software systems.
+A professional role focused on designing, implementing, and building practical, deployable AI solutions. This role emphasizes coding, system integration, and solving real-world problems with technology.
 
 ## How It Applies Here
-Minh Duy operates in this role, focusing on building practical automation tools and implementing ML/DL models to solve real-world problems like quantifying UAV threats. This requires strong skills in coding and computer science.
+Minh Duy is positioned as an AI Engineer, utilizing his skills in coding and computer science to build automation tools and apply ML/DL to specific domain problems like UAV threat quantification.
 
 ## Sources
 - [Minh Duy's current professional and personal profile, detailing his AI specialization and ventures.](wiki/sources/new-minh-duy-profile-2026.md)

@@ -4,7 +4,7 @@ entity_type: city
 ---
 
 ## Overview
-A major economic and cultural hub in Southern Vietnam, serving as the current location for Minh Duy.
+A major economic and cultural hub in Southern Vietnam, serving as Minh Duy's current location and base of operations.
 
 ## Key Facts
 - **Location:** Southern Vietnam.

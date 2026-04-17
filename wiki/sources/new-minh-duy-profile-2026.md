@@ -1,4 +1,4 @@
----
+--- 
 type: source
 date: 2026-04-14
 title: Minh Duy's current professional and personal profile, detailing his AI specialization and ventures.
