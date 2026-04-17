@@ -5,6 +5,9 @@ New entries are prepended at the top.
 
 ---
 
+## [2026-04-14] ingest | Minh Duy's current professional and personal profile, detailing his AI specialization and ventures.
+Updated wiki/entities/minh-duy-rzy.md with detailed biographical information and created wiki/sources/new-minh-duy-profile-2026.md to document his current status as an AI Engineer and founder of Lowkie.
+
 ## [2026-05-15] ingest | Minh Duy's current professional and personal profile, detailing his AI specialization and ventures.
 Updated entities/minh-duy-rzy.md and sources/new-minh-duy-profile-2026.md with detailed information regarding his current life, technical focus, and entrepreneurial ventures.
 
