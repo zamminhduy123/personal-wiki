@@ -4,12 +4,13 @@ entity_type: project
 ---
 
 ## Overview
-Lowkie is a fitness-focused snack initiative founded by Minh Duy. It specializes in developing protein-enriched cookies and operates under the brand concept of "Ăn ngon, tập khỏe" (Eat well, train hard). The venture reflects Minh Duy's personal interest in fitness and bodybuilding.
+Lowkie is a fitness-focused snack initiative founded by Minh Duy. The brand aims to provide protein-enriched cookies, operating under the slogan "Ăn ngon, tập khỏe" (Eat well, train hard).
 
 ## Key Facts
-- **Focus:** Protein-enriched cookies and fitness nutrition. 
+- **Type:** Fitness snack brand/venture.
+- **Focus:** Protein-enriched cookies.
 - **Motto:** "Ăn ngon, tập khỏe" (Eat well, train hard).
-- **Founder:** Minh Duy.
+- **Founder:** Minh Duy (Rzy).
 
 ## Sources
 - [Minh Duy's current professional and personal profile, detailing his AI specialization and ventures.](wiki/sources/new-minh-duy-profile-2026.md)
